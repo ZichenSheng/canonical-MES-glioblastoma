@@ -1,0 +1,39 @@
+#!/usr/bin/env Rscript
+Sys.setenv(OMP_NUM_THREADS="1",OPENBLAS_NUM_THREADS="1",MKL_NUM_THREADS="1")
+suppressPackageStartupMessages({library(data.table);library(MASS);library(metafor)})
+DATA_ROOT <- Sys.getenv("GBM_MES_DATA_ROOT", unset="data")
+RESULT_ROOT <- Sys.getenv("GBM_MES_OUTPUT_ROOT", unset="results")
+REPO_ROOT <- Sys.getenv("GBM_MES_REPO_ROOT", unset=".")
+RUN<-file.path(RESULT_ROOT,"interpretability")
+V1<-file.path(DATA_ROOT,"prepared","core")
+set.seed(as.integer(20260801201%%.Machine$integer.max));w<-function(x,n)fwrite(x,file.path(RUN,n),sep="\t",quote=FALSE,na="NA");z<-function(x)as.numeric(scale(x))
+d<-fread(file.path(RUN,"01_state_controls/BAYESPRISM_STATE_PATIENT_SCORES_INTERNAL.tsv"));bulk<-fread(file.path(V1,"05_bulk/BULK_PATIENT_SCORES.tsv"))[,.(cohort,patient_id,context,hypoxia,matrix)];d<-merge(d,bulk,by=c("cohort","patient_id"))
+d<-d[cohort%in%c("CGGA325","CGGA693")];d[,B:=z(bulk_CANONICAL_MES),by=cohort];d[,M:=z(malignant_CANONICAL_MES),by=cohort];d[,D_difference:=B-M]
+d[,D_residual:=resid(rlm(B~M,maxit=200)),by=cohort]
+d[,rank_bulk:=frank(B,ties.method="average")/.N,by=cohort];d[,rank_malignant:=frank(M,ties.method="average")/.N,by=cohort];d[,rank_displacement:=rank_bulk-rank_malignant]
+d[,bulk_high:=B>=median(B),by=cohort];d[,malignant_high:=M>=median(M),by=cohort];d[,quadrant:=fcase(bulk_high&malignant_high,"bulk-high / malignant-high",bulk_high&!malignant_high,"bulk-high / malignant-low",!bulk_high&malignant_high,"bulk-low / malignant-high",default="bulk-low / malignant-low")]
+w(d[,.(cohort,patient_id,B,M,D_difference,D_residual,rank_bulk,rank_malignant,rank_displacement,quadrant,myeloid_fraction,vascular_stromal_fraction,context,hypoxia,matrix,posterior_median_cv)],"02_patient_discordance/PATIENT_LEVEL_DISCORDANCE.tsv")
+ccc<-function(x,y)2*cov(x,y)/(var(x)+var(y)+(mean(x)-mean(y))^2);kappa<-function(a,b){tab<-table(factor(a,levels=c(FALSE,TRUE)),factor(b,levels=c(FALSE,TRUE)));po<-sum(diag(tab))/sum(tab);pe<-sum(rowSums(tab)*colSums(tab))/sum(tab)^2;(po-pe)/(1-pe)}
+con<-list();coi<-0L
+for(co in c("CGGA325","CGGA693")){x<-d[cohort==co];qtB<-x$B>=quantile(x$B,.75);qtM<-x$M>=quantile(x$M,.75);obs<-c(spearman=cor(x$B,x$M,method="spearman"),pearson=cor(x$B,x$M),CCC=ccc(x$B,x$M),mean_absolute_rank_displacement=mean(abs(x$rank_displacement)),top_quartile_membership_agreement=mean(qtB==qtM),top_quartile_bulk_false_high=mean(qtB&!qtM),median_split_agreement=mean(x$bulk_high==x$malignant_high),cohen_kappa=kappa(x$bulk_high,x$malignant_high));bb<-matrix(NA_real_,1000,length(obs),dimnames=list(NULL,names(obs)));for(b in 1:1000){ii<-sample.int(nrow(x),nrow(x),TRUE);q<-x[ii];qb<-q$B>=quantile(q$B,.75);qm<-q$M>=quantile(q$M,.75);bb[b,]<-c(cor(q$B,q$M,method="spearman"),cor(q$B,q$M),ccc(q$B,q$M),mean(abs(q$rank_displacement)),mean(qb==qm),mean(qb&!qm),mean(q$bulk_high==q$malignant_high),kappa(q$bulk_high,q$malignant_high))};coi<-coi+1;con[[coi]]<-data.table(cohort=co,metric=names(obs),estimate=obs,ci_low=apply(bb,2,quantile,.025,na.rm=TRUE),ci_high=apply(bb,2,quantile,.975,na.rm=TRUE),n=nrow(x),bootstrap_replicates=1000L)}
+con<-rbindlist(con);w(con,"02_patient_discordance/BULK_MALIGNANT_CONCORDANCE.tsv")
+
+quad<-list();qi<-0L
+for(co in c("CGGA325","CGGA693"))for(cut in c("median","tertile","quartile")){x<-d[cohort==co];if(cut=="median"){loB<-hiB<-median(x$B);loM<-hiM<-median(x$M)}else{p<-if(cut=="tertile")c(1/3,2/3)else c(.25,.75);loB<-quantile(x$B,p[1]);hiB<-quantile(x$B,p[2]);loM<-quantile(x$M,p[1]);hiM<-quantile(x$M,p[2])};grp<-fcase(x$B>=hiB&x$M>=hiM,"bulk-high / malignant-high",x$B>=hiB&x$M<=loM,"bulk-high / malignant-low",x$B<=loB&x$M>=hiM,"bulk-low / malignant-high",x$B<=loB&x$M<=loM,"bulk-low / malignant-low",default="middle_unclassified");for(g in unique(grp)){xx<-x[grp==g];qi<-qi+1;quad[[qi]]<-data.table(cohort=co,cutoff=cut,quadrant=g,n=nrow(xx),proportion=nrow(xx)/nrow(x),myeloid_mean=mean(xx$myeloid_fraction),vascular_stromal_mean=mean(xx$vascular_stromal_fraction),context_mean=mean(xx$context),hypoxia_mean=mean(xx$hypoxia),matrix_mean=mean(xx$matrix))}}
+w(rbindlist(quad),"02_patient_discordance/QUADRANT_RECLASSIFICATION.tsv")
+
+endpoints<-c("myeloid_fraction","vascular_stromal_fraction","context","hypoxia","matrix","posterior_median_cv")
+assoc<-list();ai<-0L
+for(co in c("CGGA325","CGGA693"))for(ep in endpoints){x<-d[cohort==co];rho<-cor(x$D_residual,x[[ep]],method="spearman",use="complete.obs");fit<-rlm(reformulate(ep,"D_residual"),x,maxit=200);slope<-coef(fit)[ep];bs<-rep(NA_real_,1000);for(b in 1:1000){bb<-x[sample.int(nrow(x),nrow(x),TRUE)];bs[b]<-tryCatch(coef(rlm(reformulate(ep,"D_residual"),bb,maxit=200))[ep],error=function(e)NA_real_)};p<-2*min(mean(bs<=0,na.rm=TRUE),mean(bs>=0,na.rm=TRUE));ai<-ai+1;assoc[[ai]]<-data.table(cohort=co,discordance_definition="D_residual_PRIMARY",ecology_endpoint=ep,n=nrow(x),spearman_rho=rho,robust_slope=slope,ci_low=quantile(bs,.025,na.rm=TRUE),ci_high=quantile(bs,.975,na.rm=TRUE),p_value=p,interpretation_boundary="association coefficient; not patient-specific source percentage")}
+assoc<-rbindlist(assoc);assoc[,FDR:=p.adjust(p_value,"BH")];w(assoc,"02_patient_discordance/DISCORDANCE_ECOLOGY_ASSOCIATION.tsv")
+
+meta<-list();mi<-0L
+for(ep in endpoints){x<-assoc[ecology_endpoint==ep];se<-(x$ci_high-x$ci_low)/(2*qnorm(.975));fit<-rma.uni(x$robust_slope,vi=se^2,method="REML");pr<-predict(fit);mi<-mi+1;meta[[mi]]<-data.table(result_type="ECOLOGY_DISCORDANCE",endpoint=ep,k=2,estimate=as.numeric(fit$b),ci_low=fit$ci.lb,ci_high=fit$ci.ub,prediction_low=pr$pi.lb,prediction_high=pr$pi.ub,I2=fit$I2,direction_consistent=all(sign(x$robust_slope)==sign(x$robust_slope[1])))}
+mis<-con[metric=="top_quartile_bulk_false_high"];se<-(mis$ci_high-mis$ci_low)/(2*qnorm(.975));fit<-rma.uni(mis$estimate,vi=se^2,method="REML");pr<-predict(fit);meta[[length(meta)+1]]<-data.table(result_type="TOP_QUARTILE_MISCLASSIFICATION",endpoint="bulk_top_quartile_not_malignant_top_quartile",k=2,estimate=as.numeric(fit$b),ci_low=fit$ci.lb,ci_high=fit$ci.ub,prediction_low=pr$pi.lb,prediction_high=pr$pi.ub,I2=fit$I2,direction_consistent=TRUE)
+# Leave-one-patient-out stability of the primary bulk--malignant correlation.
+lopo<-rbindlist(lapply(c("CGGA325","CGGA693"),function(co){x<-d[cohort==co];rbindlist(lapply(x$patient_id,function(id)data.table(result_type="LOPO_CONCORDANCE",endpoint="spearman",cohort=co,omitted_patient=id,estimate=cor(x[patient_id!=id,B],x[patient_id!=id,M],method="spearman"))))}))
+w(rbind(rbindlist(meta,fill=TRUE),lopo,fill=TRUE),"02_patient_discordance/DISCORDANCE_CROSS_COHORT_META.tsv")
+
+misprop<-mean(mis$estimate);eco_dir<-assoc[,.(both_FDR_significant=all(FDR<.05),direction_consistent=uniqueN(sign(robust_slope))==1),by=ecology_endpoint];eco_sig<-any(eco_dir$both_FDR_significant&eco_dir$direction_consistent);rho_min<-min(con[metric=="spearman",estimate]);meta_tab<-rbindlist(meta,fill=TRUE);status<-if(misprop>=.20&&eco_sig)"MATERIAL_PATIENT_LEVEL_RECLASSIFICATION"else if(misprop>=.10&&eco_sig)"MODEST_RECLASSIFICATION_WITH_ECOLOGICAL_ENRICHMENT"else if(rho_min>=.80&&misprop<.10)"HIGH_BULK_MALIGNANT_CONCORDANCE"else if(any(meta_tab$result_type=="ECOLOGY_DISCORDANCE"&meta_tab$direction_consistent==FALSE,na.rm=TRUE))"COHORT_DEPENDENT_DISCORDANCE"else"MODEST_RECLASSIFICATION_WITH_ECOLOGICAL_ENRICHMENT"
+writeLines(c("# Patient discordance analysis summary","",paste0("Status: `",status,"`"),"",paste0("- Mean bulk-top-quartile false-high proportion: ",round(misprop,3),"."),paste0("- Minimum cohort Spearman bulk–malignant concordance: ",round(rho_min,3),"."),paste0("- Direction-consistent FDR-significant ecological association present: ",eco_sig,"."),"- Robust/commonality coefficients are not interpreted as patient-specific source percentages."),file.path(RUN,"02_patient_discordance/PATIENT_DISCORDANCE_SUMMARY.md"))
+writeLines(capture.output(sessionInfo()),file.path(RUN,"session_info/MODULE2_SESSION_INFO.txt"))

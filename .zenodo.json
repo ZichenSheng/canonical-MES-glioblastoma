@@ -1,0 +1,19 @@
+{
+  "title": "Canonical MES programs in glioblastoma",
+  "description": "Analysis code accompanying the manuscript on the biological interpretation, patient-level realization, and ecological context of canonical mesenchymal programs in glioblastoma.",
+  "upload_type": "software",
+  "publication_date": "2026-08-12",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {"name": "盛子宸"}
+  ],
+  "keywords": [
+    "glioblastoma",
+    "mesenchymal state",
+    "single-cell RNA sequencing",
+    "tumor microenvironment",
+    "transcriptomics",
+    "reproducibility"
+  ]
+}

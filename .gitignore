@@ -1,0 +1,66 @@
+# Raw and processed data
+data/
+raw_data/
+processed_data/
+external_data/
+downloads/
+cache/
+tmp/
+temp/
+results/
+
+# Common biological data
+*.h5ad
+*.h5
+*.hdf5
+*.loom
+*.rds
+*.RData
+*.rda
+*.parquet
+*.feather
+*.mtx
+*.mtx.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+
+# Large tabular data
+*.xlsx
+*.xls
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Logs and local checks
+*.log
+*.out
+*.err
+*.ndjson
+*.inspect*
+logs/
+qa/
+debug/
+
+# Language and editor artifacts
+__pycache__/
+*.py[cod]
+.Rhistory
+.Rproj.user/
+.venv/
+venv/
+.DS_Store
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
