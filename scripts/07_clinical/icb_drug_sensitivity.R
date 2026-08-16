@@ -42,11 +42,57 @@ for(agent in c("nivolumab","pembrolizumab","durvalumab")){
 }
 loo<-rbindlist(loo,fill=TRUE);loo<-merge(loo,full,by="score",all.x=TRUE);loo[,beta_shift_from_full:=beta-full_beta]
 fwrite(loo,file.path(OUT,"ICB_LEAVE_ONE_AGENT_OUT.tsv"),sep="\t",quote=FALSE,na="NA")
-old<-fread(file.path(V15,"FINAL_ICB_BASELINE_COMPONENT_MODELS_V1_5.tsv"));checks<-merge(res[analysis_set=="FULL_ICB_40",.(score,beta,hr)],old[term%in%scores,.(score=term,v15_beta=beta,v15_hr=hr)],by="score");checks[,pass:=abs(beta-v15_beta)<1e-12&abs(hr-v15_hr)<1e-12]
-if(!all(checks$pass))stop("full ICB model failed exact reproduction")
+baseline<-fread(file.path(V15,"FINAL_ICB_BASELINE_COMPONENT_MODELS_V1_5.tsv"));checks<-merge(res[analysis_set=="FULL_ICB_40",.(score,beta,hr)],baseline[term%in%scores,.(score=term,v15_beta=beta,v15_hr=hr)],by="score");checks[,pass:=abs(beta-v15_beta)<1e-12&abs(hr-v15_hr)<1e-12]
+if(!all(checks$pass))stop("full ICB model did not reproduce exactly")
 ap<-res[analysis_set=="ANTI_PD1_ONLY"]
 gate<-if(all(ap$direction_status=="STABLE")&&all(ap$ph_status=="PASS"))"ICB_SHARED_ASSOCIATION_STABLE_IN_ANTI_PD1" else if(all(ap$beta<0))"ICB_SHARED_ASSOCIATION_DIRECTIONALLY_STABLE_IN_ANTI_PD1" else if(min(ap$n)<15||min(ap$events)<10)"ICB_DRUG_SENSITIVITY_UNDERPOWERED" else "ICB_SHARED_ASSOCIATION_AGENT_SENSITIVE"
 writeLines(c("# ICB drug sensitivity gate","",paste0("Status: `",gate,"`"),"",paste0("Frozen cohort: 40 patients / ",sum(d$event)," events"),paste0("Anti-PD-1-only: ",sum(d$anti_pd1_only)," patients / ",sum(d[anti_pd1_only==TRUE]$event)," events"),"Full-cohort coefficients reproduce v1.5 exactly. Both effects retain direction and similar magnitude in anti-PD-1-only, but the anti-PD-1 clinical model has a global PH violation; the formal claim is therefore directional rather than fully stable. Anti-PD-1 significance is not a gate. Leave-durvalumab-out is not executed because the excluded group has fewer than eight patients."),file.path(OUT,"ICB_DRUG_SENSITIVITY_GATE.md"))
 fwrite(checks,file.path(OUT,"ICB_FULL_MODEL_REPRODUCTION_QA.tsv"),sep="\t",quote=FALSE,na="NA")
 writeLines(capture.output(sessionInfo()),file.path(RUN,"session_info/ICB_DRUG_SENSITIVITY_SESSION_INFO.txt"))
 cat(paste0('{"status":"',gate,'","anti_pd1_n":',sum(d$anti_pd1_only),',"anti_pd1_events":',sum(d[anti_pd1_only==TRUE]$event),'}\n'))
+
+# Randomized post-one-dose versus pre-exposure tissue contrast (GSE121810).
+PD1_OUT <- file.path(RUN,"07_randomized_pd1_perturbation");dir.create(PD1_OUT,recursive=TRUE,showWarnings=FALSE)
+pd1 <- fread(file.path(DATA_ROOT,"clinical","gse121810","NEOADJUVANT_PD1_SAMPLE_SCORES.tsv"))[study=="GSE121810"]
+stopifnot(nrow(pd1)==29L,pd1[arm=="neoadjuvant",.N]==14L,pd1[arm=="adjuvant_only",.N]==15L,
+          uniqueN(pd1$patient_id)==29L,all(pd1$patient_independent))
+pd1[,neo:=as.integer(arm=="neoadjuvant")]
+
+hedges_g <- function(y,g){
+ y1<-y[g==1L];y0<-y[g==0L];n1<-length(y1);n0<-length(y0)
+ sp<-sqrt(((n1-1)*var(y1)+(n0-1)*var(y0))/(n1+n0-2));d0<-(mean(y1)-mean(y0))/sp
+ (1-3/(4*(n1+n0)-9))*d0
+}
+randomized_arm_test <- function(var,family,B=2000L,P=10000L,seed=1L){
+ y<-pd1[[var]];ok<-is.finite(y);y<-y[ok];g<-pd1$neo[ok]
+ obs_mean<-mean(y[g==1L])-mean(y[g==0L]);obs_median<-median(y[g==1L])-median(y[g==0L]);obs_g<-hedges_g(y,g)
+ fit<-lm(y~g);set.seed(seed)
+ perm<-vapply(seq_len(P),function(i){gp<-sample(g,replace=FALSE);mean(y[gp==1L])-mean(y[gp==0L])},numeric(1))
+ p_perm<-(1+sum(abs(perm)>=abs(obs_mean)))/(P+1);set.seed(seed+1L)
+ boot<-replicate(B,{
+  i1<-sample(which(g==1L),sum(g==1L),replace=TRUE);i0<-sample(which(g==0L),sum(g==0L),replace=TRUE)
+  ii<-c(i1,i0);gb<-c(rep(1L,length(i1)),rep(0L,length(i0)));yb<-y[ii]
+  c(mean_diff=mean(yb[gb==1L])-mean(yb[gb==0L]),median_diff=median(yb[gb==1L])-median(yb[gb==0L]),hedges_g=hedges_g(yb,gb))
+ })
+ data.table(endpoint=var,family=family,n=length(y),neoadjuvant_n=sum(g==1L),adjuvant_only_n=sum(g==0L),
+  adjuvant_mean=mean(y[g==0L]),neoadjuvant_mean=mean(y[g==1L]),mean_difference_neoadjuvant_minus_adjuvant=obs_mean,
+  mean_difference_ci_low=quantile(boot["mean_diff",],.025,na.rm=TRUE),mean_difference_ci_high=quantile(boot["mean_diff",],.975,na.rm=TRUE),
+  adjuvant_median=median(y[g==0L]),neoadjuvant_median=median(y[g==1L]),median_difference_neoadjuvant_minus_adjuvant=obs_median,
+  median_difference_ci_low=quantile(boot["median_diff",],.025,na.rm=TRUE),median_difference_ci_high=quantile(boot["median_diff",],.975,na.rm=TRUE),
+  standardized_mean_difference_hedges_g=obs_g,smd_ci_low=quantile(boot["hedges_g",],.025,na.rm=TRUE),
+  smd_ci_high=quantile(boot["hedges_g",],.975,na.rm=TRUE),linear_model_p=summary(fit)$coefficients["g","Pr(>|t|)"],
+  permutation_p=p_perm,permutation_n=P,bootstrap_n=B)
+}
+components<-c("bulk_MES","stable_mixed_contribution","malignant_biased_contribution","ecology_biased_contribution",
+              "malignant_MES","ecological_component","discordance")
+immune<-c("IFN_response","T_cell_fraction","myeloid_fraction","HLA_I","cell_cycle")
+pd1_rows<-rbindlist(lapply(seq_along(components),function(i)randomized_arm_test(components[i],"PRESPECIFIED_MES_COMPONENT_FAMILY",seed=2026081206L+i*100L)))
+pd1_rows[,BH_FDR:=p.adjust(permutation_p,method="BH")]
+pd1_rows[,status:="EVALUATED_RANDOMIZED_PHARMACODYNAMIC_CONTRAST"]
+pd1_rows[,interpretation_boundary:="post-one-dose versus pre-exposure randomized resection-tissue contrast; not baseline prediction"]
+fwrite(pd1_rows,file.path(PD1_OUT,"GSE121810_RANDOMIZED_PD1_PERTURBATION.tsv"),sep="\t",quote=FALSE,na="NA")
+immune_rows<-rbindlist(lapply(seq_along(immune),function(i)randomized_arm_test(immune[i],"SUPPORTIVE_IMMUNE_PROGRAM",seed=2026081606L+i*100L)))
+immune_rows[,BH_FDR_supportive:=p.adjust(permutation_p,method="BH")]
+fwrite(immune_rows,file.path(PD1_OUT,"GSE121810_IMMUNE_PROGRAM_ARM_CONTRAST.tsv"),sep="\t",quote=FALSE,na="NA")
+pd1_gate<-if(any(pd1_rows$BH_FDR<.10))"RANDOMIZED_PHARMACODYNAMIC_RESPONSIVENESS_SUPPORTED" else "NO_REPRODUCIBLE_PD1_PERTURBATION_OF_MES_ARCHITECTURE"
+writeLines(pd1_gate,file.path(PD1_OUT,"GSE121810_PERTURBATION_STATUS.txt"))

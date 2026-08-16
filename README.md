@@ -8,13 +8,22 @@ This repository contains the analysis code used for the principal results report
 
 ## Repository contents
 
-- `scripts/`: 29 final analysis scripts organized by manuscript module.
+- `scripts/`: 37 final analysis scripts organized by manuscript module.
 - `resources/signatures/`: small, published or prespecified gene-set definitions used by the retained analyses.
 - `config/`: example path configuration without machine-specific locations.
 - `reproducibility/`: public-safe dataset registry and recorded software versions.
 - `docs/`: data-access and reproducibility details.
 
 The script-to-result map is summarized in [`scripts/README.md`](scripts/README.md).
+
+| Manuscript figure | Main analytical scope |
+|---|---|
+| Figure 1 | Bulk MES ecology and benchmarking |
+| Figure 2 | Cellular-source architecture and provenance |
+| Figure 3 | MES-conditioned biological realization, CARE validation, and construct tests |
+| Figure 4 | Gene provenance and DepMap model-context analysis |
+| Figure 5 | Spatial, anatomical, and histopathological context |
+| Figure 6 | Clinical context, specificity, and evidence boundaries |
 
 ## Data availability
 

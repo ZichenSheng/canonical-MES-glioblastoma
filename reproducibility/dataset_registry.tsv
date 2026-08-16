@@ -10,3 +10,7 @@ Ivy Glioblastoma Atlas Project	Ivy GAP	anatomic transcriptional atlas	anatomic-c
 Glioma Longitudinal Analysis Consortium	GLASS	longitudinal bulk RNA-seq and clinical	general prognosis and longitudinal context	https://glass-consortium.org/
 GBM immunotherapy cohort	Zenodo 20517473	bulk and single-nucleus RNA-seq with clinical outcomes	ICB transport and prognostic association	https://zenodo.org/records/20517473
 DepMap Public 26Q1	DepMap Public 26Q1	cell-line expression and CRISPR dependency	gene-level provenance and functional controls	https://depmap.org/portal/data_page/?tab=allData
+CARE GBM	GSE274546; Zenodo 14966015	single-cell RNA-seq and longitudinal annotations	cell-resolved realization, transport, longitudinal change, and determinant analysis	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274546
+CPTAC GBM phosphoproteome	PDC000205	RNA-seq, proteome, and phosphoproteome	orthogonal functional-boundary analysis	https://pdc.cancer.gov/pdc/browse/filters/pdc_study_id:PDC000205
+Multiomic GBM spatial atlas	PRJNA1337938	spatial transcriptomics	patient-blocked spatial realization and anatomical-context analysis	https://multiomic-gbm.cells.ucsc.edu/
+Randomized neoadjuvant PD-1 GBM cohort	GSE121810	bulk RNA-seq with randomized treatment timing	randomized pharmacodynamic tissue contrast	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121810
