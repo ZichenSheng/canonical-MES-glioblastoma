@@ -47,7 +47,7 @@ The final analyses used R 4.4.1 and Python 3.11.8. Major package versions are re
 
 ## Citation
 
-Citation metadata are provided in [`CITATION.cff`](CITATION.cff). No manuscript or archive DOI is asserted before one is issued.
+Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 
 ## License
 
@@ -55,6 +55,4 @@ Code in this repository is released under the [MIT License](LICENSE). The licens
 
 ## Frozen manuscript-associated release
 
-v1.0.0: https://doi.org/10.5281/zenodo.21962295
-
-Historical note: v2.0.0 was inadvertently published under this repository lineage for a different manuscript and is superseded by [GBM-signature-measurement](https://github.com/ZichenSheng/GBM-signature-measurement), DOI [10.5281/zenodo.22851963](https://doi.org/10.5281/zenodo.22851963). The current legitimate canonical-MES release remains v1.0.0.
+v1.0.0: [doi:10.5281/zenodo.21962295](https://doi.org/10.5281/zenodo.21962295)
