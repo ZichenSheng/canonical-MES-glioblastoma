@@ -1,0 +1,1590 @@
+signature_id	signature_name	gene_symbol	gene_symbol_clean	source_reference
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ABI3BP	ABI3BP	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ACTA2	ACTA2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ADAM12	ADAM12	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ANPEP	ANPEP	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	APLP1	APLP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	AREG	AREG	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	BASP1	BASP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	BDNF	BDNF	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	BGN	BGN	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	BMP1	BMP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CADM1	CADM1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CALD1	CALD1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CALU	CALU	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CAP2	CAP2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CAPG	CAPG	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CCN1	CCN1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CCN2	CCN2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CD44	CD44	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CD59	CD59	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CDH11	CDH11	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CDH2	CDH2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CDH6	CDH6	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL11A1	COL11A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL12A1	COL12A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL16A1	COL16A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL1A1	COL1A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL1A2	COL1A2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL3A1	COL3A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL4A1	COL4A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL4A2	COL4A2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL5A1	COL5A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL5A2	COL5A2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL5A3	COL5A3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL6A2	COL6A2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL6A3	COL6A3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL7A1	COL7A1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COL8A2	COL8A2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COLGALT1	COLGALT1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COMP	COMP	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	COPA	COPA	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CRLF1	CRLF1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CTHRC1	CTHRC1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CXCL1	CXCL1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CXCL12	CXCL12	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CXCL6	CXCL6	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	CXCL8	CXCL8	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	DAB2	DAB2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	DCN	DCN	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	DKK1	DKK1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	DPYSL3	DPYSL3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	DST	DST	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ECM1	ECM1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ECM2	ECM2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	EDIL3	EDIL3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	EFEMP2	EFEMP2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ELN	ELN	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	EMP3	EMP3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ENO2	ENO2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FAP	FAP	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FAS	FAS	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FBLN1	FBLN1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FBLN2	FBLN2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FBLN5	FBLN5	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FBN1	FBN1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FBN2	FBN2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FERMT2	FERMT2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FGF2	FGF2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FLNA	FLNA	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FMOD	FMOD	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FN1	FN1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FOXC2	FOXC2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FSTL1	FSTL1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FSTL3	FSTL3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FUCA1	FUCA1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	FZD8	FZD8	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GADD45A	GADD45A	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GADD45B	GADD45B	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GAS1	GAS1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GEM	GEM	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GJA1	GJA1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GLIPR1	GLIPR1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GPC1	GPC1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GPX7	GPX7	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	GREM1	GREM1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	HTRA1	HTRA1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ID2	ID2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	IGFBP2	IGFBP2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	IGFBP3	IGFBP3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	IGFBP4	IGFBP4	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	IL15	IL15	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	IL32	IL32	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	IL6	IL6	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	INHBA	INHBA	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ITGA2	ITGA2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ITGA5	ITGA5	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ITGAV	ITGAV	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ITGB1	ITGB1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ITGB3	ITGB3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	ITGB5	ITGB5	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	JUN	JUN	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LAMA1	LAMA1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LAMA2	LAMA2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LAMA3	LAMA3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LAMC1	LAMC1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LAMC2	LAMC2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LGALS1	LGALS1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LOX	LOX	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LOXL1	LOXL1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LOXL2	LOXL2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LRP1	LRP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LRRC15	LRRC15	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	LUM	LUM	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MAGEE1	MAGEE1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MATN2	MATN2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MATN3	MATN3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MCM7	MCM7	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MEST	MEST	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MFAP5	MFAP5	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MGP	MGP	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MMP1	MMP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MMP14	MMP14	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MMP2	MMP2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MMP3	MMP3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MSX1	MSX1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MXRA5	MXRA5	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MYL9	MYL9	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	MYLK	MYLK	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	NID2	NID2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	NNMT	NNMT	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	NOTCH2	NOTCH2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	NT5E	NT5E	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	NTM	NTM	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	OXTR	OXTR	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	P3H1	P3H1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PCOLCE	PCOLCE	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PCOLCE2	PCOLCE2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PDGFRB	PDGFRB	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PDLIM4	PDLIM4	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PFN2	PFN2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PLAUR	PLAUR	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PLOD1	PLOD1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PLOD2	PLOD2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PLOD3	PLOD3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PMEPA1	PMEPA1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PMP22	PMP22	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	POSTN	POSTN	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PPIB	PPIB	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PRRX1	PRRX1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PRSS2	PRSS2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PTHLH	PTHLH	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PTX3	PTX3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	PVR	PVR	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	QSOX1	QSOX1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	RGS4	RGS4	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	RHOB	RHOB	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SAT1	SAT1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SCG2	SCG2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SDC1	SDC1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SDC4	SDC4	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SERPINE1	SERPINE1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SERPINE2	SERPINE2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SERPINH1	SERPINH1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SFRP1	SFRP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SFRP4	SFRP4	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SGCB	SGCB	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SGCD	SGCD	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SGCG	SGCG	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SLC6A8	SLC6A8	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SLIT2	SLIT2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SLIT3	SLIT3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SNAI2	SNAI2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SNTB1	SNTB1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SPARC	SPARC	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SPOCK1	SPOCK1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	SPP1	SPP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TAGLN	TAGLN	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TFPI2	TFPI2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TGFB1	TGFB1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TGFBI	TGFBI	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TGFBR3	TGFBR3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TGM2	TGM2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	THBS1	THBS1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	THBS2	THBS2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	THY1	THY1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TIMP1	TIMP1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TIMP3	TIMP3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TNC	TNC	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TNFAIP3	TNFAIP3	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TNFRSF11B	TNFRSF11B	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TNFRSF12A	TNFRSF12A	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TPM1	TPM1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TPM2	TPM2	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	TPM4	TPM4	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	VCAM1	VCAM1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	VCAN	VCAN	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	VEGFA	VEGFA	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	VEGFC	VEGFC	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	VIM	VIM	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	WIPF1	WIPF1	MSigDB Hallmark EMT
+HALLMARK_EMT	Hallmark epithelial-mesenchymal transition	WNT5A	WNT5A	MSigDB Hallmark EMT
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ACKR3	ACKR3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ADM	ADM	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ADORA2B	ADORA2B	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	AK4	AK4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	AKAP12	AKAP12	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ALDOA	ALDOA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ALDOB	ALDOB	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ALDOC	ALDOC	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	AMPD3	AMPD3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ANGPTL4	ANGPTL4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ANKZF1	ANKZF1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ANXA2	ANXA2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ATF3	ATF3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ATP7A	ATP7A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	B3GALT6	B3GALT6	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	B4GALNT2	B4GALNT2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	BCAN	BCAN	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	BCL2	BCL2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	BGN	BGN	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	BHLHE40	BHLHE40	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	BNIP3L	BNIP3L	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	BRS3	BRS3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	BTG1	BTG1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CA12	CA12	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CASP6	CASP6	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CAV1	CAV1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CAVIN1	CAVIN1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CAVIN3	CAVIN3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CCN1	CCN1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CCN2	CCN2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CCN5	CCN5	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CCNG2	CCNG2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CDKN1A	CDKN1A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CDKN1B	CDKN1B	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CDKN1C	CDKN1C	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CHST2	CHST2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CHST3	CHST3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CITED2	CITED2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	COL5A1	COL5A1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CP	CP	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CSRP2	CSRP2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	CXCR4	CXCR4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	DCN	DCN	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	DDIT3	DDIT3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	DDIT4	DDIT4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	DPYSL4	DPYSL4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	DTNA	DTNA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	DUSP1	DUSP1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	EDN2	EDN2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	EFNA1	EFNA1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	EFNA3	EFNA3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	EGFR	EGFR	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ENO1	ENO1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ENO2	ENO2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ENO3	ENO3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ERO1A	ERO1A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ERRFI1	ERRFI1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ETS1	ETS1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	EXT1	EXT1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	F3	F3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	FAM162A	FAM162A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	FBP1	FBP1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	FOS	FOS	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	FOSL2	FOSL2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	FOXO3	FOXO3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GAA	GAA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GALK1	GALK1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GAPDH	GAPDH	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GAPDHS	GAPDHS	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GBE1	GBE1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GCK	GCK	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GCNT2	GCNT2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GLRX	GLRX	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GPC1	GPC1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GPC3	GPC3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GPC4	GPC4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GPI	GPI	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GRHPR	GRHPR	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	GYS1	GYS1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HAS1	HAS1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HDLBP	HDLBP	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HEXA	HEXA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HK1	HK1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HK2	HK2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HMOX1	HMOX1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HOXB9	HOXB9	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HS3ST1	HS3ST1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	HSPA5	HSPA5	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	IDS	IDS	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	IER3	IER3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	IGFBP1	IGFBP1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	IGFBP3	IGFBP3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	IL6	IL6	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ILVBL	ILVBL	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	INHA	INHA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	IRS2	IRS2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ISG20	ISG20	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	JMJD6	JMJD6	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	JUN	JUN	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	KDELR3	KDELR3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	KDM3A	KDM3A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	KIF5A	KIF5A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	KLF6	KLF6	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	KLF7	KLF7	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	KLHL24	KLHL24	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	LALBA	LALBA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	LARGE1	LARGE1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	LDHA	LDHA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	LDHC	LDHC	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	LOX	LOX	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	LXN	LXN	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	MAFF	MAFF	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	MAP3K1	MAP3K1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	MIF	MIF	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	MT1E	MT1E	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	MT2A	MT2A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	MXI1	MXI1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	MYH9	MYH9	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NAGK	NAGK	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NCAN	NCAN	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NDRG1	NDRG1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NDST1	NDST1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NDST2	NDST2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NEDD4L	NEDD4L	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NFIL3	NFIL3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NOCT	NOCT	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	NR3C1	NR3C1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	P4HA1	P4HA1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	P4HA2	P4HA2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PAM	PAM	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PCK1	PCK1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PDGFB	PDGFB	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PDK1	PDK1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PDK3	PDK3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PFKFB3	PFKFB3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PFKL	PFKL	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PFKP	PFKP	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PGAM2	PGAM2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PGF	PGF	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PGK1	PGK1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PGM1	PGM1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PGM2	PGM2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PHKG1	PHKG1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PIM1	PIM1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PKLR	PKLR	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PKP1	PKP1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PLAC8	PLAC8	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PLAUR	PLAUR	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PLIN2	PLIN2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PNRC1	PNRC1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PPARGC1A	PPARGC1A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PPFIA4	PPFIA4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PPP1R15A	PPP1R15A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PPP1R3C	PPP1R3C	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PRDX5	PRDX5	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PRKCA	PRKCA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	PYGM	PYGM	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	RBPJ	RBPJ	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	RORA	RORA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	RRAGD	RRAGD	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	S100A4	S100A4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SAP30	SAP30	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SCARB1	SCARB1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SDC2	SDC2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SDC3	SDC3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SDC4	SDC4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SELENBP1	SELENBP1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SERPINE1	SERPINE1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SIAH2	SIAH2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SLC25A1	SLC25A1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SLC2A1	SLC2A1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SLC2A3	SLC2A3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SLC2A5	SLC2A5	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SLC37A4	SLC37A4	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SLC6A6	SLC6A6	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SRPX	SRPX	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	STBD1	STBD1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	STC1	STC1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	STC2	STC2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	SULT2B1	SULT2B1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TES	TES	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TGFB3	TGFB3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TGFBI	TGFBI	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TGM2	TGM2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TIPARP	TIPARP	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TKTL1	TKTL1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TMEM45A	TMEM45A	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TNFAIP3	TNFAIP3	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TPBG	TPBG	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TPD52	TPD52	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TPI1	TPI1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	TPST2	TPST2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	UGP2	UGP2	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	VEGFA	VEGFA	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	VHL	VHL	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	VLDLR	VLDLR	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	WSB1	WSB1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	XPNPEP1	XPNPEP1	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ZFP36	ZFP36	MSigDB Hallmark Hypoxia
+HALLMARK_HYPOXIA	Hallmark Hypoxia	ZNF292	ZNF292	MSigDB Hallmark Hypoxia
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	AIF1	AIF1	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	C1QA	C1QA	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	C1QB	C1QB	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	C1QC	C1QC	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	CD14	CD14	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	CD68	CD68	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	CSF1R	CSF1R	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	CTSS	CTSS	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	FCER1G	FCER1G	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	ITGAM	ITGAM	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	LST1	LST1	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	LYZ	LYZ	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	SPI1	SPI1	Prespecified study marker panel
+MYELOID_CORE_IDENTITY	Core myeloid/macrophage identity markers	TYROBP	TYROBP	Prespecified study marker panel
+NABA_CORE_MATRISOME	Naba Core Matrisome	ABI3BP	ABI3BP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ACAN	ACAN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ADIPOQ	ADIPOQ	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	AEBP1	AEBP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	AGRN	AGRN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	AMBN	AMBN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	AMELX	AMELX	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	AMELY	AMELY	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ANOS1	ANOS1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ASPN	ASPN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	BCAN	BCAN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	BGLAP	BGLAP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	BGN	BGN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	BMPER	BMPER	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	BSPH1	BSPH1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CCN1	CCN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CCN2	CCN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CCN3	CCN3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CCN4	CCN4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CCN5	CCN5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CCN6	CCN6	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CDCP2	CDCP2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CHAD	CHAD	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CHADL	CHADL	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CILP	CILP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CILP2	CILP2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COCH	COCH	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL10A1	COL10A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL11A1	COL11A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL11A2	COL11A2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL12A1	COL12A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL13A1	COL13A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL14A1	COL14A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL15A1	COL15A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL16A1	COL16A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL17A1	COL17A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL18A1	COL18A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL19A1	COL19A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL1A1	COL1A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL1A2	COL1A2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL20A1	COL20A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL21A1	COL21A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL22A1	COL22A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL23A1	COL23A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL24A1	COL24A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL25A1	COL25A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL26A1	COL26A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL27A1	COL27A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL28A1	COL28A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL2A1	COL2A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL3A1	COL3A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL4A1	COL4A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL4A2	COL4A2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL4A3	COL4A3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL4A4	COL4A4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL4A5	COL4A5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL4A6	COL4A6	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL5A1	COL5A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL5A2	COL5A2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL5A3	COL5A3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL6A1	COL6A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL6A2	COL6A2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL6A3	COL6A3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL6A5	COL6A5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL6A6	COL6A6	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL7A1	COL7A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL8A1	COL8A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL8A2	COL8A2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL9A1	COL9A1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL9A2	COL9A2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COL9A3	COL9A3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COLQ	COLQ	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	COMP	COMP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CRELD1	CRELD1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CRELD2	CRELD2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CRIM1	CRIM1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CRISPLD1	CRISPLD1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CRISPLD2	CRISPLD2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	CTHRC1	CTHRC1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	DCN	DCN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	DMBT1	DMBT1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	DMP1	DMP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	DPT	DPT	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	DSPP	DSPP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ECM1	ECM1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ECM2	ECM2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EDIL3	EDIL3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EFEMP1	EFEMP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EFEMP2	EFEMP2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EGFLAM	EGFLAM	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ELN	ELN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ELSPBP1	ELSPBP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EMID1	EMID1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EMILIN1	EMILIN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EMILIN2	EMILIN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EMILIN3	EMILIN3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EPYC	EPYC	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ESM1	ESM1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	EYS	EYS	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FBLN1	FBLN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FBLN2	FBLN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FBLN5	FBLN5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FBLN7	FBLN7	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FBN1	FBN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FBN2	FBN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FBN3	FBN3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FGA	FGA	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FGB	FGB	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FGG	FGG	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FGL1	FGL1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FGL2	FGL2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FMOD	FMOD	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FN1	FN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FNDC1	FNDC1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FNDC7	FNDC7	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FNDC8	FNDC8	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	FRAS1	FRAS1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	GAS6	GAS6	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	GLDN	GLDN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	HAPLN1	HAPLN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	HAPLN2	HAPLN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	HAPLN3	HAPLN3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	HAPLN4	HAPLN4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	HMCN1	HMCN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	HMCN2	HMCN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	HSPG2	HSPG2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IBSP	IBSP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFALS	IGFALS	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBP1	IGFBP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBP2	IGFBP2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBP3	IGFBP3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBP4	IGFBP4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBP5	IGFBP5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBP6	IGFBP6	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBP7	IGFBP7	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGFBPL1	IGFBPL1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IGSF10	IGSF10	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IMPG1	IMPG1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	IMPG2	IMPG2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	INTS14	INTS14	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	INTS6L	INTS6L	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	KCP	KCP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	KERA	KERA	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMA1	LAMA1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMA2	LAMA2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMA3	LAMA3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMA4	LAMA4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMA5	LAMA5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMB1	LAMB1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMB2	LAMB2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMB3	LAMB3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMB4	LAMB4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMC1	LAMC1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMC2	LAMC2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LAMC3	LAMC3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LGI1	LGI1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LGI2	LGI2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LGI3	LGI3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LGI4	LGI4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LRG1	LRG1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LTBP1	LTBP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LTBP2	LTBP2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LTBP3	LTBP3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LTBP4	LTBP4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	LUM	LUM	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MATN1	MATN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MATN2	MATN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MATN3	MATN3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MATN4	MATN4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MEPE	MEPE	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MFAP1	MFAP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MFAP2	MFAP2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MFAP3	MFAP3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MFAP4	MFAP4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MFAP5	MFAP5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MFGE8	MFGE8	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MGP	MGP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MMRN1	MMRN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MMRN2	MMRN2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	MXRA5	MXRA5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NCAN	NCAN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NDNF	NDNF	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NELL1	NELL1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NELL2	NELL2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NID1	NID1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NID2	NID2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NPNT	NPNT	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NTN1	NTN1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NTN3	NTN3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NTN4	NTN4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NTN5	NTN5	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NTNG1	NTNG1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NTNG2	NTNG2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	NYX	NYX	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	OGN	OGN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	OIT3	OIT3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	OMD	OMD	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	OPTC	OPTC	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	OTOG	OTOG	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	OTOL1	OTOL1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PAPLN	PAPLN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PCOLCE	PCOLCE	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PCOLCE2	PCOLCE2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PODN	PODN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PODNL1	PODNL1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	POMZP3	POMZP3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	POSTN	POSTN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PRELP	PRELP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PRG2	PRG2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PRG3	PRG3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PRG4	PRG4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PXDN	PXDN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	PXDNL	PXDNL	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	RELN	RELN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	RSPO1	RSPO1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	RSPO2	RSPO2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	RSPO3	RSPO3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	RSPO4	RSPO4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SBSPON	SBSPON	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SLIT1	SLIT1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SLIT2	SLIT2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SLIT3	SLIT3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SMOC1	SMOC1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SMOC2	SMOC2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SNED1	SNED1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPARC	SPARC	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPARCL1	SPARCL1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPOCK1	SPOCK1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPOCK2	SPOCK2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPOCK3	SPOCK3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPON1	SPON1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPON2	SPON2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SPP1	SPP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SRGN	SRGN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SRPX	SRPX	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SRPX2	SRPX2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SSPOP	SSPOP	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	SVEP1	SVEP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TECTA	TECTA	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TECTB	TECTB	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TGFBI	TGFBI	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	THBS1	THBS1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	THBS2	THBS2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	THBS3	THBS3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	THBS4	THBS4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	THSD4	THSD4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TINAG	TINAG	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TINAGL1	TINAGL1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TNC	TNC	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TNFAIP6	TNFAIP6	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TNN	TNN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TNR	TNR	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TNXB	TNXB	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TSKU	TSKU	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	TSPEAR	TSPEAR	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	USH2A	USH2A	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VCAN	VCAN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VIT	VIT	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VTN	VTN	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA1	VWA1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA2	VWA2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA3A	VWA3A	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA3B	VWA3B	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA5A	VWA5A	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA5B1	VWA5B1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA5B2	VWA5B2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWA7	VWA7	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWCE	VWCE	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWDE	VWDE	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	VWF	VWF	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ZP1	ZP1	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ZP2	ZP2	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ZP3	ZP3	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ZP4	ZP4	Naba core matrisome / MSigDB
+NABA_CORE_MATRISOME	Naba Core Matrisome	ZPLD1	ZPLD1	Naba core matrisome / MSigDB
+NEFTEL_AC_LIKE	Neftel AC-like program	AGT	AGT	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	ANXA5	ANXA5	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	AQP4	AQP4	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	ATP1A2	ATP1A2	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	ATP1B2	ATP1B2	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	BCAN	BCAN	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	CLU	CLU	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	CST3	CST3	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	DBI	DBI	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	EDNRB	EDNRB	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	F3	F3	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	FABP7	FABP7	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	GATM	GATM	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	GFAP	GFAP	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	GPM6B	GPM6B	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	HEPN1	HEPN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	HEY1	HEY1	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	HOPX	HOPX	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	METTL7B	METTL7B	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	MLC1	MLC1	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	MT3	MT3	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	NDRG2	NDRG2	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PCDHGC3	PCDHGC3	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PLTP	PLTP	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PMP2	PMP2	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PMP22	PMP22	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PON2	PON2	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PPAP2B	PPAP2B	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PRCP	PRCP	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	PTPRZ1	PTPRZ1	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	RAB31	RAB31	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	RAMP1	RAMP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	S100A16	S100A16	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	S100B	S100B	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	SLC1A3	SLC1A3	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	SPARC	SPARC	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	SPARCL1	SPARCL1	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	TSPAN7	TSPAN7	Neftel et al., Cell (2019), Table S2
+NEFTEL_AC_LIKE	Neftel AC-like program	TTYH1	TTYH1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	A2M	A2M	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	ACTN1	ACTN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	ANXA1	ANXA1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	ANXA2	ANXA2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	APOE	APOE	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	C1R	C1R	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	C1S	C1S	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	C3	C3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	C8ORF4	C8ORF4	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	CD44	CD44	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	CHI3L1	CHI3L1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	CLIC1	CLIC1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	CLIC4	CLIC4	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	CTSB	CTSB	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	EFEMP1	EFEMP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	EMP1	EMP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	EMP3	EMP3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	FN1	FN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	GFPT2	GFPT2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	GJA1	GJA1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	GSN	GSN	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	IFITM3	IFITM3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	IGFBP7	IGFBP7	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	LGALS1	LGALS1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	LGALS3	LGALS3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	MGP	MGP	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	MGST1	MGST1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	MT1E	MT1E	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	MT1X	MT1X	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	MT2A	MT2A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	NAMPT	NAMPT	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	NNMT	NNMT	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	NPC2	NPC2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	PLP2	PLP2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	PRDX6	PRDX6	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	RCAN1	RCAN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	S100A10	S100A10	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	S100A11	S100A11	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	S100A16	S100A16	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	SERPINA3	SERPINA3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	SERPINE1	SERPINE1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	SERPING1	SERPING1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	SOD2	SOD2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	SPP1	SPP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	TAGLN2	TAGLN2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	TIMP1	TIMP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	TNFRSF1A	TNFRSF1A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	TUBA1C	TUBA1C	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	VIM	VIM	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES1	NEFTEL MES1	WWTR1	WWTR1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	ADM	ADM	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	AKAP12	AKAP12	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	ANGPTL4	ANGPTL4	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	ANXA2	ANXA2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	ASNS	ASNS	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	ATF3	ATF3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	BNIP3	BNIP3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	BNIP3L	BNIP3L	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	CA9	CA9	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	CDKN1A	CDKN1A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	DDIT3	DDIT3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	DNAJB9	DNAJB9	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	EGLN3	EGLN3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	ENO2	ENO2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	EPAS1	EPAS1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	ERO1L	ERO1L	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	FTL	FTL	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	GBE1	GBE1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	GDF15	GDF15	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	GOLT1B	GOLT1B	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	HERPUD1	HERPUD1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	HILPDA	HILPDA	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	HSPA5	HSPA5	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	HSPA9	HSPA9	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	IGFBP3	IGFBP3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	INSIG2	INSIG2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	LDHA	LDHA	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	LGALS3	LGALS3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	MT1X	MT1X	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	NAMPT	NAMPT	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	NDRG1	NDRG1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	NRN1	NRN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	P4HA1	P4HA1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	PFKP	PFKP	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	PGK1	PGK1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	PLOD2	PLOD2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	PPP1R15A	PPP1R15A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	RPL21	RPL21	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	SERTAD1	SERTAD1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	SLC2A1	SLC2A1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	SLC2A3	SLC2A3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	SLC39A14	SLC39A14	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	SLC6A6	SLC6A6	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	SQSTM1	SQSTM1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	TRAM1	TRAM1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	TRIB3	TRIB3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	UFM1	UFM1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	VIM	VIM	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	WARS	WARS	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES2	NEFTEL MES2	XPOT	XPOT	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_AST	Neftel MES-astrocytic program	A2M	A2M	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	ABCC3	ABCC3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	AGT	AGT	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	APOE	APOE	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	AQP4	AQP4	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	ATP1B2	ATP1B2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	C1R	C1R	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	C1S	C1S	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	C21orf62	C21orf62	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	C3	C3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CCL2	CCL2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CDH11	CDH11	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CDH6	CDH6	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CFI	CFI	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CHI3L1	CHI3L1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CHRNA1	CHRNA1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CITED1	CITED1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CLU	CLU	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CNR1	CNR1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	COL1A1	COL1A1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	COL1A2	COL1A2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	COL5A2	COL5A2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	COL6A1	COL6A1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	COL6A2	COL6A2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CP	CP	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CST3	CST3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	CXCL14	CXCL14	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	DKK3	DKK3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	DPYD	DPYD	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	EFEMP1	EFEMP1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	FABP5	FABP5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	FABP7	FABP7	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	FSTL1	FSTL1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GAP43	GAP43	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GAS1	GAS1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GFAP	GFAP	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GPC1	GPC1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GPM6A	GPM6A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GPM6B	GPM6B	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GPX3	GPX3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	GRIA2	GRIA2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	HLA-DRA	HLA-DRA	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	HOPX	HOPX	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	HTRA1	HTRA1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	ID1	ID1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	ID3	ID3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	IFITM3	IFITM3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	IGFBP7	IGFBP7	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	ITGA7	ITGA7	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	KLHDC8A	KLHDC8A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	LGALS3BP	LGALS3BP	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	LPL	LPL	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	LTF	LTF	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	MAOB	MAOB	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	METTL7B	METTL7B	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	MLC1	MLC1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	MOXD1	MOXD1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	MXRA8	MXRA8	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	NES	NES	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	NNMT	NNMT	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	NPAS3	NPAS3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	OLFM2	OLFM2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PLA2G2A	PLA2G2A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PLA2G5	PLA2G5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PLAAT4	PLAAT4	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PMP2	PMP2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	POSTN	POSTN	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PPIC	PPIC	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PROS1	PROS1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PTN	PTN	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	PTPRZ1	PTPRZ1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	RAMP1	RAMP1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	RBP1	RBP1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	RCAN1	RCAN1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	RDH10	RDH10	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	RFX4	RFX4	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	RHOJ	RHOJ	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	S100B	S100B	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SAA1	SAA1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SCARA3	SCARA3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SCD5	SCD5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SCRG1	SCRG1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SEMA6D	SEMA6D	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SERPINA3	SERPINA3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SERPINF1	SERPINF1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SERPING1	SERPING1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SLC1A2	SLC1A2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SLPI	SLPI	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SNTG1	SNTG1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SPARC	SPARC	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SPARCL1	SPARCL1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SPP1	SPP1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	SRPX2	SRPX2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	TAGLN	TAGLN	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	THY1	THY1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	TNC	TNC	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	TTYH1	TTYH1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	TUBA1A	TUBA1A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	VCAM1	VCAM1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_AST	Neftel MES-astrocytic program	VCAN	VCAN	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ADM	ADM	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	AKAP12	AKAP12	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ANG	ANG	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ANGPTL4	ANGPTL4	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ANKRD37	ANKRD37	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ARFGEF3	ARFGEF3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ARID3A	ARID3A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ASNS	ASNS	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ATF4	ATF4	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ATF5	ATF5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	BEX2	BEX2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	BIRC3	BIRC3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	BNIP3	BNIP3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	BNIP3L	BNIP3L	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	BTG1	BTG1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	CA9	CA9	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	CEBPG	CEBPG	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	CIART	CIART	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	CLEC2B	CLEC2B	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	CREBRF	CREBRF	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	CTH	CTH	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	CXCL8	CXCL8	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	DDIT3	DDIT3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	DDIT4	DDIT4	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	DNAJB9	DNAJB9	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	EGLN3	EGLN3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	EIF4EBP1	EIF4EBP1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	EMX2	EMX2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	EPB41L4A-AS1	EPB41L4A-AS1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ERO1A	ERO1A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	FAM13A	FAM13A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	FAM210A	FAM210A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	FICD	FICD	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	FRMD3	FRMD3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	GBE1	GBE1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	GDF15	GDF15	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	GFPT1	GFPT1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	GOLT1B	GOLT1B	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	GPNMB	GPNMB	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	GRPEL2	GRPEL2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	HILPDA	HILPDA	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	HK2	HK2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	HSPA5	HSPA5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	HSPA6	HSPA6	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	HSPA9	HSPA9	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	HSPH1	HSPH1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	IGFBP3	IGFBP3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	IGFBP5	IGFBP5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	INSIG1	INSIG1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	INSIG2	INSIG2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	JMJD6	JMJD6	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	KDM3A	KDM3A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	KISS1R	KISS1R	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	LARP6	LARP6	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	LIF	LIF	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	LMAN1	LMAN1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	LOX	LOX	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	LUCAT1	LUCAT1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	MAP1LC3B	MAP1LC3B	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	MXI1	MXI1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	NDRG1	NDRG1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	NRN1	NRN1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	NUP58	NUP58	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	NUPR1	NUPR1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	OSER1	OSER1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	OSGIN1	OSGIN1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PDK1	PDK1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PERP	PERP	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PGK1	PGK1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PHF1	PHF1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PID1	PID1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PIGA	PIGA	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PLOD2	PLOD2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PPP1R3C	PPP1R3C	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PRKAG2-AS1	PRKAG2-AS1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	PSAT1	PSAT1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	RRAGD	RRAGD	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SESN2	SESN2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SH3BGR	SH3BGR	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SLC1A5	SLC1A5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SLC38A1	SLC38A1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SLC3A2	SLC3A2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SLC6A6	SLC6A6	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SLC7A5	SLC7A5	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	SLCO4A1	SLCO4A1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	STC2	STC2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	STX3	STX3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TAF1D	TAF1D	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TM4SF1	TM4SF1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TMEM38B	TMEM38B	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TMEM45A	TMEM45A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TREM1	TREM1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TRIB3	TRIB3	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TSPYL2	TSPYL2	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	TUBA4A	TUBA4A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	UPP1	UPP1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	VEGFA	VEGFA	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	XBP1	XBP1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ZFAND2A	ZFAND2A	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_HYP	Neftel MES-hypoxia program	ZFAS1	ZFAS1	Neftel et al., Cell (2019), Table S4
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	A2M	A2M	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ACTN1	ACTN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ADM	ADM	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	AKAP12	AKAP12	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ANGPTL4	ANGPTL4	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ANXA1	ANXA1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ANXA2	ANXA2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	APOE	APOE	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ASNS	ASNS	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ATF3	ATF3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	BNIP3	BNIP3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	BNIP3L	BNIP3L	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	C1R	C1R	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	C1S	C1S	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	C3	C3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	C8ORF4	C8ORF4	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	CA9	CA9	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	CD44	CD44	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	CDKN1A	CDKN1A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	CHI3L1	CHI3L1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	CLIC1	CLIC1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	CLIC4	CLIC4	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	CTSB	CTSB	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	DDIT3	DDIT3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	DNAJB9	DNAJB9	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	EFEMP1	EFEMP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	EGLN3	EGLN3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	EMP1	EMP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	EMP3	EMP3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ENO2	ENO2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	EPAS1	EPAS1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	ERO1L	ERO1L	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	FN1	FN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	FTL	FTL	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	GBE1	GBE1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	GDF15	GDF15	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	GFPT2	GFPT2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	GJA1	GJA1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	GOLT1B	GOLT1B	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	GSN	GSN	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	HERPUD1	HERPUD1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	HILPDA	HILPDA	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	HSPA5	HSPA5	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	HSPA9	HSPA9	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	IFITM3	IFITM3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	IGFBP3	IGFBP3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	IGFBP7	IGFBP7	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	INSIG2	INSIG2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	LDHA	LDHA	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	LGALS1	LGALS1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	LGALS3	LGALS3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	MGP	MGP	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	MGST1	MGST1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	MT1E	MT1E	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	MT1X	MT1X	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	MT2A	MT2A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	NAMPT	NAMPT	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	NDRG1	NDRG1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	NNMT	NNMT	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	NPC2	NPC2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	NRN1	NRN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	P4HA1	P4HA1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	PFKP	PFKP	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	PGK1	PGK1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	PLOD2	PLOD2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	PLP2	PLP2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	PPP1R15A	PPP1R15A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	PRDX6	PRDX6	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	RCAN1	RCAN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	RPL21	RPL21	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	S100A10	S100A10	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	S100A11	S100A11	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	S100A16	S100A16	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SERPINA3	SERPINA3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SERPINE1	SERPINE1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SERPING1	SERPING1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SERTAD1	SERTAD1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SLC2A1	SLC2A1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SLC2A3	SLC2A3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SLC39A14	SLC39A14	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SLC6A6	SLC6A6	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SOD2	SOD2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SPP1	SPP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	SQSTM1	SQSTM1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	TAGLN2	TAGLN2	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	TIMP1	TIMP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	TNFRSF1A	TNFRSF1A	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	TRAM1	TRAM1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	TRIB3	TRIB3	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	TUBA1C	TUBA1C	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	UFM1	UFM1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	VIM	VIM	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	WARS	WARS	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	WWTR1	WWTR1	Neftel et al., Cell (2019), Table S2
+NEFTEL_MES_LIKE	Neftel MES-like program, union of MES1 and MES2	XPOT	XPOT	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	ABAT	ABAT	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	AMOTL2	AMOTL2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	ASCL1	ASCL1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	ATP1B1	ATP1B1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	BCAN	BCAN	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	BEX1	BEX1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	BLCAP	BLCAP	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	BTG2	BTG2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	CD200	CD200	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	CD24	CD24	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	CEP170	CEP170	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	CHD7	CHD7	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	CRABP1	CRABP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DBN1	DBN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DCX	DCX	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DDAH2	DDAH2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DLL1	DLL1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DLL3	DLL3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DLX5	DLX5	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DLX6-AS1	DLX6-AS1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DPYSL3	DPYSL3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DPYSL5	DPYSL5	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	DYNC1I1	DYNC1I1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	ELAVL4	ELAVL4	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	ELMO1	ELMO1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	ENO2	ENO2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	ETV1	ETV1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	FNBP1L	FNBP1L	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	FXYD6	FXYD6	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	GLCCI1	GLCCI1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	GNG3	GNG3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	GPR56	GPR56	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	GRIK2	GRIK2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	HES6	HES6	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	HIP1	HIP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	HMP19	HMP19	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	HN1	HN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	IGFBPL1	IGFBPL1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	KIF5A	KIF5A	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	KIF5C	KIF5C	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	LBH	LBH	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	LMF1	LMF1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	LOC150568	LOC150568	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	LRRN1	LRRN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	MAP1B	MAP1B	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	MAP2	MAP2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	MARCKSL1	MARCKSL1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	MEST	MEST	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	MIAT	MIAT	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	MLLT11	MLLT11	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	MYT1	MYT1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NDRG4	NDRG4	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NEU4	NEU4	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NFIB	NFIB	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NFIX	NFIX	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NPPA	NPPA	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NREP	NREP	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NSG1	NSG1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	NXPH1	NXPH1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	OLIG1	OLIG1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	PAK3	PAK3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	PCBP4	PCBP4	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	PFN2	PFN2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	PKIA	PKIA	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	PTPRS	PTPRS	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	RBFOX2	RBFOX2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	RND3	RND3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SCG3	SCG3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SEPT3	SEPT3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SERINC5	SERINC5	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SEZ6	SEZ6	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SEZ6L	SEZ6L	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SHD	SHD	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SNAP25	SNAP25	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SOX11	SOX11	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	SOX4	SOX4	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	STMN1	STMN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	STMN2	STMN2	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	STMN4	STMN4	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TAGLN3	TAGLN3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TCF12	TCF12	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TCF4	TCF4	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TMEM161B-AS1	TMEM161B-AS1	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TNR	TNR	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TSPAN13	TSPAN13	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TUBA1A	TUBA1A	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TUBB2A	TUBB2A	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	TUBB3	TUBB3	Neftel et al., Cell (2019), Table S2
+NEFTEL_NPC_LIKE	Neftel NPC-like program, union of NPC1 and NPC2	UCHL1	UCHL1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	ALCAM	ALCAM	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	APOD	APOD	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	BCAN	BCAN	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	BCAS1	BCAS1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	CA10	CA10	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	CADM2	CADM2	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	CNP	CNP	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	CNTN1	CNTN1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	DBI	DBI	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	EPB41L2	EPB41L2	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	FABP5	FABP5	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	FGF12	FGF12	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	FIBIN	FIBIN	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	FXYD6	FXYD6	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	GPM6B	GPM6B	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	GPR17	GPR17	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	GPR37L1	GPR37L1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	HRASLS	HRASLS	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	LHFPL3	LHFPL3	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	LIMA1	LIMA1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	LMF1	LMF1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	LPPR1	LPPR1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	NEU4	NEU4	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	NKAIN4	NKAIN4	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	NLGN3	NLGN3	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	OLIG1	OLIG1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	OMG	OMG	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	P2RX7	P2RX7	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PCDHGC3	PCDHGC3	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PGRMC1	PGRMC1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PHYHIPL	PHYHIPL	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PLLP	PLLP	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PLP1	PLP1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PMP2	PMP2	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PSAT1	PSAT1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	PTPRZ1	PTPRZ1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	RAB31	RAB31	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	RNF13	RNF13	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	RTKN	RTKN	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	SCD5	SCD5	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	SCRG1	SCRG1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	SERINC5	SERINC5	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	SIRT2	SIRT2	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	SOX2-OT	SOX2-OT	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	THY1	THY1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	TMEM206	TMEM206	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	TNR	TNR	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	TNS3	TNS3	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	TTYH1	TTYH1	Neftel et al., Cell (2019), Table S2
+NEFTEL_OPC_LIKE	Neftel OPC-like program	VCAN	VCAN	Neftel et al., Cell (2019), Table S2
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ABL1	ABL1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	AK2	AK2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	AMD1	AMD1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ANP32E	ANP32E	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ARID4A	ARID4A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ASF1A	ASF1A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ASF1B	ASF1B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ATAD2	ATAD2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ATF5	ATF5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ATRX	ATRX	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	AURKA	AURKA	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	AURKB	AURKB	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BARD1	BARD1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BCL3	BCL3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BIRC5	BIRC5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BRCA1	BRCA1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BRCA2	BRCA2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BRMS1L	BRMS1L	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BUB1	BUB1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BUB1B	BUB1B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	BUB3	BUB3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CASP8AP2	CASP8AP2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CBX1	CBX1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CBX5	CBX5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CCNA2	CCNA2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CCNB2	CCNB2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CCND1	CCND1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CCNE1	CCNE1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CCNF	CCNF	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CCNT1	CCNT1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CCP110	CCP110	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDC20	CDC20	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDC25A	CDC25A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDC25B	CDC25B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDC27	CDC27	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDC45	CDC45	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDC6	CDC6	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDC7	CDC7	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDCA3	CDCA3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDCA8	CDCA8	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDK1	CDK1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDK4	CDK4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDKN1A	CDKN1A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDKN1B	CDKN1B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDKN2A	CDKN2A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDKN2C	CDKN2C	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CDKN3	CDKN3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CENPA	CENPA	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CENPE	CENPE	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CENPF	CENPF	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CENPM	CENPM	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CHAF1A	CHAF1A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CHEK1	CHEK1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CHEK2	CHEK2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CHMP1A	CHMP1A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CIT	CIT	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CKS1B	CKS1B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CKS2	CKS2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CNOT9	CNOT9	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CSE1L	CSE1L	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CTCF	CTCF	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CTPS1	CTPS1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CUL1	CUL1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CUL3	CUL3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CUL4A	CUL4A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	CUL5	CUL5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DBF4	DBF4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DCK	DCK	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DCLRE1B	DCLRE1B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DCTPP1	DCTPP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DDX39A	DDX39A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DEK	DEK	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DEPDC1	DEPDC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DIAPH3	DIAPH3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DKC1	DKC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DLGAP5	DLGAP5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DMD	DMD	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DNMT1	DNMT1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DONSON	DONSON	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DR1	DR1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DSCC1	DSCC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DTYMK	DTYMK	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	DUT	DUT	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	E2F1	E2F1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	E2F2	E2F2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	E2F3	E2F3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	E2F4	E2F4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	E2F8	E2F8	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EED	EED	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EFNA5	EFNA5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EGF	EGF	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EIF2S1	EIF2S1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ESPL1	ESPL1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EWSR1	EWSR1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EXO1	EXO1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EXOSC8	EXOSC8	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	EZH2	EZH2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	FANCC	FANCC	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	FBXO5	FBXO5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	FOXN3	FOXN3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	G3BP1	G3BP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	GINS1	GINS1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	GINS2	GINS2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	GINS3	GINS3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	GINS4	GINS4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	GSPT1	GSPT1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	H2AX	H2AX	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	H2AZ1	H2AZ1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	H2AZ2	H2AZ2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	H2BC12	H2BC12	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HELLS	HELLS	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HIF1A	HIF1A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HIRA	HIRA	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HMGA1	HMGA1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HMGB2	HMGB2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HMGB3	HMGB3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HMGN2	HMGN2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HMMR	HMMR	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HNRNPD	HNRNPD	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HNRNPU	HNRNPU	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HOXC10	HOXC10	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HSPA8	HSPA8	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	HUS1	HUS1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ILF3	ILF3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	INCENP	INCENP	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ING3	ING3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	IPO7	IPO7	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	JPT1	JPT1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KATNA1	KATNA1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF11	KIF11	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF15	KIF15	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF18B	KIF18B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF20B	KIF20B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF22	KIF22	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF23	KIF23	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF2C	KIF2C	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF4A	KIF4A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KIF5B	KIF5B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KMT5A	KMT5A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KNL1	KNL1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KPNA2	KPNA2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	KPNB1	KPNB1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	LBR	LBR	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	LIG1	LIG1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	LIG3	LIG3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	LMNB1	LMNB1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	LUC7L3	LUC7L3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	LYAR	LYAR	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MAD2L1	MAD2L1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MAP3K20	MAP3K20	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MAPK14	MAPK14	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MARCKS	MARCKS	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MCM2	MCM2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MCM3	MCM3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MCM4	MCM4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MCM5	MCM5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MCM6	MCM6	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MCM7	MCM7	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MEIS1	MEIS1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MEIS2	MEIS2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MELK	MELK	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MKI67	MKI67	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MLH1	MLH1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MMS22L	MMS22L	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MNAT1	MNAT1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MRE11	MRE11	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MSH2	MSH2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MT2A	MT2A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MTF2	MTF2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MTHFD2	MTHFD2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MXD3	MXD3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MYBL2	MYBL2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	MYC	MYC	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NAA38	NAA38	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NAP1L1	NAP1L1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NASP	NASP	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NBN	NBN	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NCAPD2	NCAPD2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NCL	NCL	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NDC80	NDC80	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NEK2	NEK2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NME1	NME1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NOLC1	NOLC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NOP56	NOP56	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NOTCH2	NOTCH2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NSD2	NSD2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUDT21	NUDT21	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUMA1	NUMA1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUP107	NUP107	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUP153	NUP153	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUP205	NUP205	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUP50	NUP50	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUP98	NUP98	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	NUSAP1	NUSAP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ODC1	ODC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ODF2	ODF2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ORC2	ORC2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ORC5	ORC5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ORC6	ORC6	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PA2G4	PA2G4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PAFAH1B1	PAFAH1B1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PAICS	PAICS	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PAN2	PAN2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PBK	PBK	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PCNA	PCNA	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PDS5B	PDS5B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PHF5A	PHF5A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PLK1	PLK1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PLK4	PLK4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PML	PML	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PMS2	PMS2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PNN	PNN	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POLA2	POLA2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POLD1	POLD1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POLD2	POLD2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POLD3	POLD3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POLE	POLE	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POLE4	POLE4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POLQ	POLQ	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	POP7	POP7	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PPM1D	PPM1D	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PPP1R8	PPP1R8	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PRC1	PRC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PRDX4	PRDX4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PRIM2	PRIM2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PRKDC	PRKDC	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PRMT5	PRMT5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PRP4K	PRP4K	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PRPS1	PRPS1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PSIP1	PSIP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PSMC3IP	PSMC3IP	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PTTG1	PTTG1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PTTG3P	PTTG3P	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	PURA	PURA	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RACGAP1	RACGAP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAD1	RAD1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAD21	RAD21	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAD23B	RAD23B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAD50	RAD50	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAD51AP1	RAD51AP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAD51C	RAD51C	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAD54L	RAD54L	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RAN	RAN	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RANBP1	RANBP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RASAL2	RASAL2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RBBP7	RBBP7	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RBL1	RBL1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RBM14	RBM14	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RFC1	RFC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RFC2	RFC2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RFC3	RFC3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RNASEH2A	RNASEH2A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RPA1	RPA1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RPA2	RPA2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RPA3	RPA3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RPS6KA5	RPS6KA5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	RRM2	RRM2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SAP30	SAP30	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SFPQ	SFPQ	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SHMT1	SHMT1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SLBP	SLBP	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SLC12A2	SLC12A2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SLC38A1	SLC38A1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SLC7A1	SLC7A1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SLC7A5	SLC7A5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SMAD3	SMAD3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SMARCC1	SMARCC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SMC1A	SMC1A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SMC2	SMC2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SMC3	SMC3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SMC4	SMC4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SMC6	SMC6	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SNRPB	SNRPB	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SNRPD1	SNRPD1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SPAG5	SPAG5	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SPC24	SPC24	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SPC25	SPC25	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SQLE	SQLE	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SRSF1	SRSF1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SRSF10	SRSF10	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SRSF2	SRSF2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SS18	SS18	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SSRP1	SSRP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	STAG1	STAG1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	STIL	STIL	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	STMN1	STMN1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SUV39H1	SUV39H1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	SYNCRIP	SYNCRIP	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TACC3	TACC3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TBRG4	TBRG4	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TCF19	TCF19	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TENT4A	TENT4A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TFDP1	TFDP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TFRC	TFRC	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TGFB1	TGFB1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TIMELESS	TIMELESS	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TIPIN	TIPIN	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TK1	TK1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TLE3	TLE3	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TMPO	TMPO	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TNPO2	TNPO2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TOP1	TOP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TOP2A	TOP2A	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TP53	TP53	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TPX2	TPX2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TRA2B	TRA2B	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TRAIP	TRAIP	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TRIP13	TRIP13	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TROAP	TROAP	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TTK	TTK	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TUBB	TUBB	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	TUBG1	TUBG1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	UBE2C	UBE2C	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	UBE2S	UBE2S	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	UBE2T	UBE2T	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	UBR7	UBR7	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	UCK2	UCK2	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	UNG	UNG	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	UPF1	UPF1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	USP1	USP1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	WDR90	WDR90	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	WEE1	WEE1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	WRN	WRN	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	XPO1	XPO1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	XRCC6	XRCC6	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	YTHDC1	YTHDC1	Prespecified cell-cycle comparator panel
+PROLIFERATION_CELL_CYCLE	Proliferation / cell-cycle control signature	ZW10	ZW10	Prespecified cell-cycle comparator panel

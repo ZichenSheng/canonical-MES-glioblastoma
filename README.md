@@ -1,35 +1,60 @@
-# Glioblastoma manuscript reproducibility
+# Canonical MES programs in glioblastoma
 
-This repository provides the minimal analytical code and aggregate validation supporting the principal quantitative results of **Transcriptomic signatures preserve biological direction without uniquely specifying state in glioblastoma**. Raw study datasets are not redistributed and must be obtained from their original sources. This is a bounded manuscript reproducibility release, not a one-command reconstruction from raw data.
+Code accompanying the manuscript on the biological interpretation, patient-level realization, and ecological context of canonical mesenchymal programs in glioblastoma.
 
-The current Results authority is the September 19, 2026 manuscript, with 78 claim-level entries and six main figures. The historical v1.0.0 is preserved; v2 follows the current six-section manuscript. See [authority](docs/CURRENT_RESULTS_AUTHORITY.md), [claim crosswalk](docs/RESULT_CODE_CROSSWALK.tsv) and [figure map](docs/RESULT_MAP.md).
+## Overview
 
-| Module | Actual certified capability |
+This repository contains the analysis code used for the principal results reported in the manuscript. The analyses evaluate canonical mesenchymal (MES) scoring across bulk, single-cell, spatial, decomposition, patient-realization, provenance, and clinical settings. The central interpretation is that canonical MES is informative but non-identifying and context-sensitive: the score captures reproducible biology without uniquely specifying one cellular source or one patient-level realization. Raw study datasets are not redistributed.
+
+## Repository contents
+
+- `scripts/`: 37 final analysis scripts organized by manuscript module.
+- `resources/signatures/`: small, published or prespecified gene-set definitions used by the retained analyses.
+- `config/`: example path configuration without machine-specific locations.
+- `reproducibility/`: public-safe dataset registry and recorded software versions.
+- `docs/`: data-access and reproducibility details.
+
+The script-to-result map is summarized in [`scripts/README.md`](scripts/README.md).
+
+| Manuscript figure | Main analytical scope |
 |---|---|
-| 01_inspect_signatures.R | Inspect MES95 and Primary201 membership definitions |
-| 02_patient_external_transfer.py | Recompute patient-exclusive ecology transfer and patient-bootstrap CI from external prepared arrays |
-| 03_anatomical_resolution.py | Recompute tumour-blocked association and leave-one-tumour-out resolution from external prepared scores |
-| 04_longitudinal_deformation.py | Recompute patient-exclusive all-k deformation from external paired scores |
-| 05_design_capability.R | Validate exact-support qualification and recovery from frozen aggregate counts |
-| 06_crc04_exact_inference.R | Recompute frozen measurement and exact inference from downloaded public processed WTA RDS; includes synthetic fixture |
-| 07_sampling_composition.py | Recompute CARE sampling-null comparisons and composition decomposition from external frozen prepared inputs |
-| 08_aggregate_evidence.py | Recalculate overlap, localization, state-resolution, stability and recovery summaries from safe aggregate inputs |
+| Figure 1 | Bulk MES ecology and benchmarking |
+| Figure 2 | Cellular-source architecture and provenance |
+| Figure 3 | MES-conditioned biological realization, CARE validation, and construct tests |
+| Figure 4 | Gene provenance and DepMap model-context analysis |
+| Figure 5 | Spatial, anatomical, and histopathological context |
+| Figure 6 | Clinical context, specificity, and evidence boundaries |
 
-Eight principal scripts have PASS receipts for their stated scope. The crosswalk distinguishes aggregate validation, public prepared-input reproduction and source-dependent execution; a numerical PASS does not certify omitted preprocessing. No claim is labelled FULL_FROM_SOURCE_DATA. Graphical assembly and real-data plot reconstruction are outside this release.
+## Data availability
 
-Quick start (R 4.4.1; Python 3.11):
+Raw datasets are not redistributed in this repository. Public accessions and source pages are listed in [`reproducibility/dataset_registry.tsv`](reproducibility/dataset_registry.tsv) and described in [`docs/DATA_AVAILABILITY.md`](docs/DATA_AVAILABILITY.md). Each dataset remains subject to its original terms of use.
 
-```sh
-Rscript -e 'renv::restore(prompt=FALSE)'
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements-lock.txt
-MANUSCRIPT_PYTHON=.venv/bin/python Rscript analysis/99_validate_release.R
+## Reproducibility
+
+Set local roots before running a module:
+
+```bash
+export GBM_MES_DATA_ROOT=/path/to/local/data
+export GBM_MES_OUTPUT_ROOT=results
+export GBM_MES_REPO_ROOT="$PWD"
 ```
 
-Install renv separately if needed. The validator runs the immediately runnable modules and checks frozen table hashes, schemas, printed values, numerical receipts, denominator and estimand locks. It exits nonzero on mismatch. [Data access](docs/DATA_ACCESS.md) documents Tier 2 CRC04 and Tier 3 source-dependent modes; [datasets.tsv](config/datasets.tsv) registers 18 current-paper resource/subset entries.
+The repository records the final statistical code but does not claim a one-command reconstruction from raw data. Several modules require public datasets to be downloaded and organized into the prepared-input layout described in [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md). Final figure assembly and graphical annotation were performed separately from the analytical scripts.
 
-R1 uses 57 ALL_AUTHOR_ANNOTATED regional measurements from 12 patients. R4 uses 57 MALIGNANT_ONLY regional pseudobulks from 12 donors. The approved [Methods wording correction](docs/MANUSCRIPT_DISCREPANCY_LOG.tsv) changes no result or executed analysis. CRC04's historical four intermediate-vector exact-equality discrepancies remain disclosed; its exact inferential chain reproduces.
+## Software
 
-The independent [evaluably 0.9.0 release](https://github.com/ZichenSheng/evaluably/releases/tag/v0.9.0), DOI [10.5281/zenodo.22846293](https://doi.org/10.5281/zenodo.22846293), is frozen and is not vendored or an execution dependency here. That DOI is not the manuscript-code DOI. 
+The final analyses used R 4.4.1 and Python 3.11.8. Major package versions are recorded in [`reproducibility/software_versions.md`](reproducibility/software_versions.md); Python requirements are listed in [`requirements.txt`](requirements.txt).
 
-Cite manuscript code v2.0.0 with version DOI [10.5281/zenodo.22851819](https://doi.org/10.5281/zenodo.22851819). The concept DOI for all manuscript-code versions is [10.5281/zenodo.21962294](https://doi.org/10.5281/zenodo.21962294). These citation details were added to main after archival; the v2.0.0 tag remains at `206c1c01198091efa9022bb8ed8db21b1a012528`.
+## Citation
+
+Citation metadata are provided in [`CITATION.cff`](CITATION.cff). No manuscript or archive DOI is asserted before one is issued.
+
+## License
+
+Code in this repository is released under the [MIT License](LICENSE). The license does not apply to third-party datasets, which remain subject to their original terms of use.
+
+## Frozen manuscript-associated release
+
+v1.0.0: https://doi.org/10.5281/zenodo.21962295
+
+Historical note: v2.0.0 was inadvertently published under this repository lineage for a different manuscript and is superseded by [GBM-signature-measurement](https://github.com/ZichenSheng/GBM-signature-measurement), DOI [10.5281/zenodo.22851963](https://doi.org/10.5281/zenodo.22851963). The current legitimate canonical-MES release remains v1.0.0.

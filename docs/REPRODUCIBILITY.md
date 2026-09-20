@@ -1,15 +1,40 @@
-# Reproducibility levels
+# Reproducibility guide
 
-The release contains eight principal executable scripts and one final validator. The78-row Results crosswalk is anchored to the selected current manuscript. Every row names a frozen source and a public reproduction/check module. Where original generating code is not traced, UNTRACED remains explicit; aggregate-check code is never represented as the original generator.
+## Scope
 
-Tier1 requires no source database: signature inspection, synthetic CRC04 exact inference, aggregate capability qualification and aggregate evidence validation. These checks regenerate counts/statistics from safe frozen aggregates and verify printed values; they do not refit omitted source analyses.
+This repository preserves the final analytical code supporting the manuscript's principal conclusions. It is a minimal code release, not a complete project-history archive or a bundled data distribution. The statistical calculations are retained; local I/O paths and internal run-management language were replaced for public release.
 
-Tier2: CRC04 runs from the original public processed WTA object after download, using frozen measurement and exact inference. No segment membership table needs to be redistributed. Its scope is FROM_PREPARED_PUBLIC_INPUT, not raw-count normalization. The source object is SHA256-pinned. Historical exact binary-equality discrepancies in four intermediate vectors remain FAIL in their original receipt; the public module reproduces the statistic and exact inference.
+## Configuration
 
-Tier3: transfer, Ivy, longitudinal and CARE sampling/composition kernels were executed on the frozen external prepared inputs. Those observation-level inputs and exact memberships are not shipped. Their numerical comparisons pass, but these are conservatively labelled NOT_PUBLICLY_REPRODUCIBLE in the claim crosswalk until the external preparation contract is supplied. Public download URLs do not turn an unpublished prepared input into a public fixture. Readers may run the kernels on independently prepared inputs but must preserve the frozen transformations and unit definitions.
+Set three environment variables from the repository root:
 
-SCRIPT_CERTIFICATION.tsv reports each module's original source hash, expected/observed outputs, tolerance and limitations. Numerical comparisons use1e-12 absolute tolerance or exact counts; the longitudinal tolerance is inherited from the upstream V2 regression gate. Printed-value checks use half the last displayed decimal. Decimal comparison at rounding boundaries avoids binary subtraction artefacts without widening tolerances. No tolerances were increased in response to a scientific mismatch.
+```bash
+export GBM_MES_DATA_ROOT=/path/to/local/data
+export GBM_MES_OUTPUT_ROOT=results
+export GBM_MES_REPO_ROOT="$PWD"
+```
 
-Code04 does not select dimensionality; aggregate code08 validates the frozen supported range. Code07 retains the original finite-cell comparison and non-additive composition operations but not raw-cell resampling generation, withheld class contrasts, or graphical assembly. Code05/08 validate support/recovery from aggregates; they do not reconstruct the full positive-world generator. These limits are deliberate reductions of public surface area and are stated per claim.
+`config/paths.example.yaml` documents the same roots for users who manage paths with YAML. Scripts use the environment variables directly.
 
-No patient/sample/cell/spot/AOI-level records, matrices, source objects, private audit logs or absolute machine paths are included. Aggregate denominator exclusions retain counts while removing patient aliases. The crosswalk, numerical receipts and source hashes preserve provenance. The frozen evaluably0.9.0 release remains unchanged.
+## Prepared-input layout
+
+The code refers to public datasets under `GBM_MES_DATA_ROOT`, grouped into `bulk/`, `single_cell/`, `spatial/`, `clinical/`, `depmap/`, and `prepared/`. The `prepared/` directory contains cohort mappings, verified sample annotations, and interoperable analysis inputs derived from the public downloads. Patient-level inputs, fitted objects, and matrices are deliberately not included in the repository.
+
+Expected filenames are explicit near the top of each script. This makes the I/O contract inspectable without embedding a machine-specific path. Users adapting a public download may either use those filenames or update only the corresponding I/O declarations.
+
+## Analysis order
+
+1. `scripts/01_scoring`: canonical and comparator scoring in pseudo-bulk and bulk cohorts.
+2. `scripts/02_single_cell`: patient-level malignant and compartment analyses.
+3. `scripts/03_decomposition`: BayesPrism reuse, state-specific controls, and bulk–malignant discordance.
+4. `scripts/04_patient_realization`: patient fingerprints, CARE cell-resolved transport and longitudinal analyses, residual geometry, and matched-signature construct controls.
+5. `scripts/05_provenance`: gene-origin contributions, ablations, stability, ICB transport, and DepMap controls.
+6. `scripts/06_spatial`: Visium and Ivy GAP context analyses, the formal spatial meta-test, and patient-blocked spatial validation.
+7. `scripts/07_clinical`: ICB specificity and immune adjustment, longitudinal and GLASS comparisons, randomized perturbation, non-proportional-hazards, and sensitivity analyses.
+8. `scripts/08_validation`: the CPTAC functional boundary using patient-level signaling and nested prediction tests.
+
+Modules reuse outputs from earlier modules where their paths point into `GBM_MES_OUTPUT_ROOT`. Full-data execution can be computationally intensive and was not repeated during public-release preparation. Python compilation and R parse checks are the release-level static verification.
+
+## Figures
+
+The retained scripts generate analytical tables and panel-level quantities. Final figure assembly and graphical annotation were performed separately. The repository therefore does not claim pixel-identical reconstruction of the submitted figures.

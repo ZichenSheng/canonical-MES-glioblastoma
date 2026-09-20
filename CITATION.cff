@@ -1,19 +1,19 @@
 cff-version: 1.2.0
-message: "Please cite this manuscript reproducibility release using its version DOI."
-title: "Glioblastoma transcriptomic-signature manuscript reproducibility"
+message: "If you use this code, please cite this repository and the associated manuscript when available."
+title: "Canonical MES programs in glioblastoma"
 type: software
-version: 2.0.0
+version: 1.0.0
+date-released: 2026-08-12
 authors:
   - family-names: Sheng
     given-names: Zichen
-    email: "225113177+ZichenSheng@users.noreply.github.com"
-repository-code: "https://github.com/ZichenSheng/canonical-MES-glioblastoma"
-url: "https://github.com/ZichenSheng/canonical-MES-glioblastoma"
 license: MIT
 keywords:
-  - reproducibility
-  - measurement
   - glioblastoma
-  - R
-doi: "10.5281/zenodo.22851819"
-date-released: 2026-09-20
+  - mesenchymal state
+  - single-cell RNA sequencing
+  - tumor microenvironment
+  - transcriptomics
+  - reproducibility
+doi: "10.5281/zenodo.21962295"
+repository-code: "https://github.com/ZichenSheng/canonical-MES-glioblastoma"
