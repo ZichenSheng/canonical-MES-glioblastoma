@@ -1,0 +1,1730 @@
+model_instance_id	scoring_feature_id	feature_type
+PF4C-B1-001	10630	Entrez Gene ID
+PF4C-B1-001	11000	Entrez Gene ID
+PF4C-B1-001	11068	Entrez Gene ID
+PF4C-B1-001	1116	Entrez Gene ID
+PF4C-B1-001	1819	Entrez Gene ID
+PF4C-B1-001	2887	Entrez Gene ID
+PF4C-B1-001	3281	Entrez Gene ID
+PF4C-B1-001	3383	Entrez Gene ID
+PF4C-B1-001	3669	Entrez Gene ID
+PF4C-B1-001	3964	Entrez Gene ID
+PF4C-B1-001	4016	Entrez Gene ID
+PF4C-B1-001	4192	Entrez Gene ID
+PF4C-B1-001	4223	Entrez Gene ID
+PF4C-B1-001	4478	Entrez Gene ID
+PF4C-B1-001	4493	Entrez Gene ID
+PF4C-B1-001	4599	Entrez Gene ID
+PF4C-B1-001	4615	Entrez Gene ID
+PF4C-B1-001	487	Entrez Gene ID
+PF4C-B1-001	5154	Entrez Gene ID
+PF4C-B1-001	597	Entrez Gene ID
+PF4C-B1-001	622	Entrez Gene ID
+PF4C-B1-001	6279	Entrez Gene ID
+PF4C-B1-001	6383	Entrez Gene ID
+PF4C-B1-001	6988	Entrez Gene ID
+PF4C-B1-001	6990	Entrez Gene ID
+PF4C-B1-001	7132	Entrez Gene ID
+PF4C-B1-001	716	Entrez Gene ID
+PF4C-B1-001	7253	Entrez Gene ID
+PF4C-B1-001	8324	Entrez Gene ID
+PF4C-B1-001	9332	Entrez Gene ID
+PF4C-B1-001	9922	Entrez Gene ID
+PF4C-B1-002	CCL2	Gene expression
+PF4C-B1-002	IGFBP2	Gene expression
+PF4C-B1-002	PDPN	Gene expression
+PF4C-B1-002	SLC12A5	Gene expression
+PF4C-B1-003	ANAPC15	Gene expression
+PF4C-B1-003	ATP6V0C	Gene expression
+PF4C-B1-003	BDH1	Gene expression
+PF4C-B1-003	CBS	Gene expression
+PF4C-B1-003	CCND2	Gene expression
+PF4C-B1-003	CSRP1	Gene expression
+PF4C-B1-003	FOLR2	Gene expression
+PF4C-B1-003	IRF9	Gene expression
+PF4C-B1-003	MGST1	Gene expression
+PF4C-B1-003	PCP4	Gene expression
+PF4C-B1-003	RAP1B	Gene expression
+PF4C-B1-003	RAPGEF3	Gene expression
+PF4C-B1-003	RPL39	Gene expression
+PF4C-B1-003	SH3BP5	Gene expression
+PF4C-B1-003	SKP1	Gene expression
+PF4C-B1-003	ST8SIA3	Gene expression
+PF4C-B1-003	U2AF1	Gene expression
+PF4C-B1-004	CCL20	Gene expression
+PF4C-B1-004	CDK6	Gene expression
+PF4C-B1-004	MCM7	Gene expression
+PF4C-B1-004	ORC1	Gene expression
+PF4C-B1-004	POLA1	Gene expression
+PF4C-B1-004	TIAM1	Gene expression
+PF4C-B1-004	TNFRSF12A	Gene expression
+PF4C-B1-004	TRAF1	Gene expression
+PF4C-B1-005	CDK1	gene symbol
+PF4C-B1-005	FDX1	gene symbol
+PF4C-B1-005	LOXL2	gene symbol
+PF4C-B1-005	LOXL3	gene symbol
+PF4C-B1-005	NFE2L2	gene symbol
+PF4C-B1-005	SLC31A1	gene symbol
+PF4C-B1-005	SUMF1	gene symbol
+PF4C-B1-006	ACTN1	gene symbol
+PF4C-B1-006	CHI3L1	gene symbol
+PF4C-B1-006	CLU	gene symbol
+PF4C-B1-006	EFEMP1	gene symbol
+PF4C-B1-006	EMP1	gene symbol
+PF4C-B1-006	IGFBP7	gene symbol
+PF4C-B1-006	MAP1B	gene symbol
+PF4C-B1-006	MT2A	gene symbol
+PF4C-B1-006	NNMT	gene symbol
+PF4C-B1-006	PAM	gene symbol
+PF4C-B1-006	TPST1	gene symbol
+PF4C-B1-007	CCL2	gene symbol
+PF4C-B1-007	CCR2	gene symbol
+PF4C-B1-007	CXCL10	gene symbol
+PF4C-B1-007	IL10RB	gene symbol
+PF4C-B1-007	IL17B	gene symbol
+PF4C-B1-007	IL17RA	gene symbol
+PF4C-B1-008	CALCRL	Gene expression
+PF4C-B1-008	EMP3	Gene expression
+PF4C-B1-008	GNAI3	Gene expression
+PF4C-B1-008	ITGA5	Gene expression
+PF4C-B1-008	NFKBIA	Gene expression
+PF4C-B1-008	NMI	Gene expression
+PF4C-B1-008	PCDH7	Gene expression
+PF4C-B1-008	TIMP1	Gene expression
+PF4C-B1-009	DIRAS3	Gene expression
+PF4C-B1-009	FBXO39	Gene expression
+PF4C-B1-009	HILS1	Gene expression
+PF4C-B1-009	MYBL1	Gene expression
+PF4C-B1-009	TEX26	Gene expression
+PF4C-B1-011	ATG9B	Gene expression
+PF4C-B1-011	HSPA5	Gene expression
+PF4C-B1-011	ITGA3	Gene expression
+PF4C-B1-011	RAC1	Gene expression
+PF4C-B1-012	HTR1A	Gene expression
+PF4C-B1-012	PAX3	Gene expression
+PF4C-B1-012	RETN	Gene expression
+PF4C-B1-012	VEPH1	Gene expression
+PF4C-B1-013	COL1A2	Gene expression
+PF4C-B1-013	COL4A1	Gene expression
+PF4C-B1-013	ITGB4	Gene expression
+PF4C-B1-013	MAPK10	Gene expression
+PF4C-B1-013	PRKCB	Gene expression
+PF4C-B1-013	PRKCG	Gene expression
+PF4C-B1-013	RELN	Gene expression
+PF4C-B1-013	TNC	Gene expression
+PF4C-B1-014	CRYAB	gene symbol
+PF4C-B1-014	MT1G	gene symbol
+PF4C-B1-014	STEAP3	gene symbol
+PF4C-B1-015	BCL2L2	gene symbol
+PF4C-B1-015	PRDX1	gene symbol
+PF4C-B1-015	SEC61B	gene symbol
+PF4C-B1-015	XRCC5	gene symbol
+PF4C-B1-016	AOAH	Gene expression
+PF4C-B1-016	CASP1	Gene expression
+PF4C-B1-016	GBP1	Gene expression
+PF4C-B1-016	GBP2	Gene expression
+PF4C-B1-016	GBP3	Gene expression
+PF4C-B1-016	HMOX1	Gene expression
+PF4C-B1-016	IL18	Gene expression
+PF4C-B1-016	IRAK4	Gene expression
+PF4C-B1-016	RELB	Gene expression
+PF4C-B1-016	TIGAR	Gene expression
+PF4C-B1-016	TP53	Gene expression
+PF4C-B1-017	CASP3	Gene expression
+PF4C-B1-017	DPP9	Gene expression
+PF4C-B1-017	MAPK8	Gene expression
+PF4C-B1-017	PELP1	Gene expression
+PF4C-B1-017	TOMM20	Gene expression
+PF4C-B1-019	AOX1	Gene expression
+PF4C-B1-019	CANT1	Gene expression
+PF4C-B1-019	IMPDH1	Gene expression
+PF4C-B1-019	NUDT5	Gene expression
+PF4C-B1-019	PDE2A	Gene expression
+PF4C-B1-019	POLR1D	Gene expression
+PF4C-B1-019	POLR3A	Gene expression
+PF4C-B1-019	POLR3GL	Gene expression
+PF4C-B1-019	POLR3H	Gene expression
+PF4C-B1-019	PPAT	Gene expression
+PF4C-B1-019	RRM2	Gene expression
+PF4C-B1-020	ALDH2	Gene expression
+PF4C-B1-020	GNMT	Gene expression
+PF4C-B1-020	PSPH	Gene expression
+PF4C-B1-020	SARDH	Gene expression
+PF4C-B1-020	SHMT1	Gene expression
+PF4C-B1-021	BTK	Gene expression
+PF4C-B1-021	CFH	Gene expression
+PF4C-B1-021	CFI	Gene expression
+PF4C-B1-021	F3	Gene expression
+PF4C-B1-021	GNAI3	Gene expression
+PF4C-B1-021	ITGB1	Gene expression
+PF4C-B1-021	LYN	Gene expression
+PF4C-B1-024	ATG7	Gene expression
+PF4C-B1-024	CISD2	Gene expression
+PF4C-B1-024	EIF2AK4	Gene expression
+PF4C-B1-024	HMOX1	Gene expression
+PF4C-B1-024	HSPB1	Gene expression
+PF4C-B1-024	MTDH	Gene expression
+PF4C-B1-024	MTOR	Gene expression
+PF4C-B1-024	PRKAA2	Gene expression
+PF4C-B1-024	SIRT1	Gene expression
+PF4C-B1-025	FOXP3	gene symbol
+PF4C-B1-025	IL6	gene symbol
+PF4C-B1-025	LY96	gene symbol
+PF4C-B1-025	MYD88	gene symbol
+PF4C-B1-025	PDIA3	gene symbol
+PF4C-B1-026	CHPF2	gene symbol
+PF4C-B1-026	COLGALT2	gene symbol
+PF4C-B1-026	EXT2	gene symbol
+PF4C-B1-026	GALNT13	gene symbol
+PF4C-B1-026	PYGL	gene symbol
+PF4C-B1-027	FAM241B	Gene expression
+PF4C-B1-027	IGFBP2	Gene expression
+PF4C-B1-027	LOXL1	Gene expression
+PF4C-B1-027	LSM2	Gene expression
+PF4C-B1-027	OSMR	Gene expression
+PF4C-B1-027	STOX1	Gene expression
+PF4C-B1-028	LITAF	Gene expression
+PF4C-B1-028	OSMR	Gene expression
+PF4C-B1-028	TCF12	Gene expression
+PF4C-B1-029	ANKH	Gene expression
+PF4C-B1-029	CCT6A	Gene expression
+PF4C-B1-029	GOS2	Gene expression
+PF4C-B1-029	NAGLU	Gene expression
+PF4C-B1-029	NCOA4	Gene expression
+PF4C-B1-029	NSUN5	Gene expression
+PF4C-B1-029	TSPAN4	Gene expression
+PF4C-B1-029	WDR46	Gene expression
+PF4C-B2-001	CYGB	Gene expression
+PF4C-B2-001	DUSP6	Gene expression
+PF4C-B2-001	IGFBP4	Gene expression
+PF4C-B2-001	LOXL1	Gene expression
+PF4C-B2-001	VWA1	Gene expression
+PF4C-B2-001	ZIC3	Gene expression
+PF4C-B2-002	FCGR2B	gene symbol
+PF4C-B2-002	MXRA5	gene symbol
+PF4C-B2-002	TNFRSF9	gene symbol
+PF4C-B2-002	TNFSF14	gene symbol
+PF4C-B2-003	MEOX2	Gene expression
+PF4C-B2-003	PHYHIP	Gene expression
+PF4C-B2-003	RBBP8	Gene expression
+PF4C-B2-003	ST18	Gene expression
+PF4C-B2-003	TCF12	Gene expression
+PF4C-B2-003	THRB	Gene expression
+PF4C-B2-005	BEX5	gene symbol
+PF4C-B2-005	CNPY4	gene symbol
+PF4C-B2-005	LRRTM3	gene symbol
+PF4C-B2-005	MXRA8	gene symbol
+PF4C-B2-005	SCG5	gene symbol
+PF4C-B2-005	TIMP4	gene symbol
+PF4C-B2-005	VGF	gene symbol
+PF4C-B2-005	ZNF22	gene symbol
+PF4C-B2-005	ZNF627	gene symbol
+PF4C-B2-006	FMOD	Gene expression
+PF4C-B2-006	MXRA5	Gene expression
+PF4C-B2-006	RAB36	Gene expression
+PF4C-B2-007	CYGB	Gene expression
+PF4C-B2-007	IGFBP6	Gene expression
+PF4C-B2-007	NNAT	Gene expression
+PF4C-B2-008	C5AR1	gene symbol
+PF4C-B2-008	F2RL2	gene symbol
+PF4C-B2-008	GP6	gene symbol
+PF4C-B2-008	PLAUR	gene symbol
+PF4C-B2-008	SERPINA5	gene symbol
+PF4C-B2-009	CBLN1	Gene expression
+PF4C-B2-009	DUSP6	Gene expression
+PF4C-B2-009	PDIA4	Gene expression
+PF4C-B2-009	PILRB	Gene expression
+PF4C-B2-009	PTPRN	Gene expression
+PF4C-B2-010	AP1S1	Gene expression
+PF4C-B2-010	CTSD	Gene expression
+PF4C-B2-010	IER3	Gene expression
+PF4C-B2-010	YWHAG	Gene expression
+PF4C-B2-013	MAP1LC3A	Gene expression
+PF4C-B2-013	PHB2	Gene expression
+PF4C-B2-013	TOMM20	Gene expression
+PF4C-B2-013	UBA52	Gene expression
+PF4C-B2-014	KDELR2	Gene expression
+PF4C-B2-014	RPS4X	Gene expression
+PF4C-B2-014	SLC40A1	Gene expression
+PF4C-B2-014	TUBA1C	Gene expression
+PF4C-B2-015	BCAT1	Gene expression
+PF4C-B2-015	C16ORF86	Gene expression
+PF4C-B2-015	HPX	Gene expression
+PF4C-B2-015	NNMT	Gene expression
+PF4C-B2-015	RAB42	Gene expression
+PF4C-B2-015	TBX5	Gene expression
+PF4C-B2-015	TNFRSF19	Gene expression
+PF4C-B2-015	TRPC5	Gene expression
+PF4C-B2-016	IL1R1	gene symbol
+PF4C-B2-016	TNFSF12	gene symbol
+PF4C-B2-016	VDR	gene symbol
+PF4C-B2-017	B4GALT7	Gene expression
+PF4C-B2-017	CHST12	Gene expression
+PF4C-B2-017	G6PC2	Gene expression
+PF4C-B2-017	GALE	Gene expression
+PF4C-B2-017	IL13RA1	Gene expression
+PF4C-B2-017	LDHB	Gene expression
+PF4C-B2-017	SPAG4	Gene expression
+PF4C-B2-017	STC1	Gene expression
+PF4C-B2-017	TGFBI	Gene expression
+PF4C-B2-017	TPBG	Gene expression
+PF4C-B2-018	IGFBP2	Gene expression
+PF4C-B2-018	PTPRN	Gene expression
+PF4C-B2-018	SLC39A10	Gene expression
+PF4C-B2-018	STEAP2	Gene expression
+PF4C-B2-019	IRF7	mRNA_gene
+PF4C-B2-019	MXRA8	mRNA_gene
+PF4C-B2-019	RMI2	mRNA_gene
+PF4C-B2-019	S100A4	mRNA_gene
+PF4C-B2-019	TIMP1	mRNA_gene
+PF4C-B2-019	TREM1	mRNA_gene
+PF4C-B2-021	CFH	Gene expression
+PF4C-B2-021	SLC16A3	Gene expression
+PF4C-B2-021	SPP1	Gene expression
+PF4C-B2-021	TCIRG1	Gene expression
+PF4C-B2-021	TTC26	Gene expression
+PF4C-B2-022	CHI3L2	mRNA_gene
+PF4C-B2-022	FSTL3	mRNA_gene
+PF4C-B2-022	RPA3	mRNA_gene
+PF4C-B2-022	RRM2	mRNA_gene
+PF4C-B2-022	YTHDF2	mRNA_gene
+PF4C-B2-023	FPR3	mRNA_gene
+PF4C-B2-023	IKBIP	mRNA_gene
+PF4C-B2-023	S100A9	mRNA_gene
+PF4C-B2-025	BMPR1A	mRNA_gene
+PF4C-B2-025	KLF10	mRNA_gene
+PF4C-B2-025	RAB31	mRNA_gene
+PF4C-B2-025	SMAD4	mRNA_gene
+PF4C-B2-025	ZFYVE9	mRNA_gene
+PF4C-B2-026	C1RL	Gene expression
+PF4C-B2-026	CD244	Gene expression
+PF4C-B2-026	CD81	Gene expression
+PF4C-B2-026	CENPN	Gene expression
+PF4C-B2-026	CMIP	Gene expression
+PF4C-B2-026	DEK	Gene expression
+PF4C-B2-026	EIF4A3	Gene expression
+PF4C-B2-026	ITPKC	Gene expression
+PF4C-B2-026	OGFOD1	Gene expression
+PF4C-B2-027	LITAF	Gene expression
+PF4C-B2-027	MTHFD2	Gene expression
+PF4C-B2-027	NRXN3	Gene expression
+PF4C-B2-027	OSMR	Gene expression
+PF4C-B2-027	RUFY2	Gene expression
+PF4C-B2-028	CASP4	Gene expression
+PF4C-B2-028	CASP9	Gene expression
+PF4C-B2-028	NOD2	Gene expression
+PF4C-B2-029	ACADS	Gene expression
+PF4C-B2-029	ADRA2A	Gene expression
+PF4C-B2-029	ALAS1	Gene expression
+PF4C-B2-029	APOD	Gene expression
+PF4C-B2-029	ARSF	Gene expression
+PF4C-B2-029	ESRRB	Gene expression
+PF4C-B2-029	FOXO3	Gene expression
+PF4C-B2-029	HSPH1	Gene expression
+PF4C-B2-029	KLF15	Gene expression
+PF4C-B2-029	NR1H4	Gene expression
+PF4C-B2-029	PCSK1	Gene expression
+PF4C-B2-029	PIK3R1	Gene expression
+PF4C-B2-029	RNASEL	Gene expression
+PF4C-B2-029	RUFY1	Gene expression
+PF4C-B2-029	SFN	Gene expression
+PF4C-B2-029	SH3GLB1	Gene expression
+PF4C-B2-029	SPTSSA	Gene expression
+PF4C-B2-030	EFEMP2	Gene expression
+PF4C-B2-030	MYD88	Gene expression
+PF4C-B2-030	OSMR	Gene expression
+PF4C-B2-030	PTPRN	Gene expression
+PF4C-B3-001	CLSPN	Gene expression
+PF4C-B3-001	MGMT	Gene expression
+PF4C-B3-001	POLN	Gene expression
+PF4C-B3-001	SFN	Gene expression
+PF4C-B3-002	BAX	Gene expression
+PF4C-B3-002	CASP3	Gene expression
+PF4C-B3-002	CASP4	Gene expression
+PF4C-B3-003	HOXA2	Gene expression
+PF4C-B3-003	HOXC6	Gene expression
+PF4C-B3-003	MMP9	Gene expression
+PF4C-B3-003	MYOD1	Gene expression
+PF4C-B3-003	SHOX2	Gene expression
+PF4C-B3-003	WT1	Gene expression
+PF4C-B3-005	LDHA	mRNA_gene
+PF4C-B3-005	LDHB	mRNA_gene
+PF4C-B3-005	MRS2	mRNA_gene
+PF4C-B3-005	SLC16A1	mRNA_gene
+PF4C-B3-005	SLC25A12	mRNA_gene
+PF4C-B3-006	FADD	Gene expression
+PF4C-B3-006	FAS	Gene expression
+PF4C-B3-006	RIPK1	Gene expression
+PF4C-B3-006	RIPK3	Gene expression
+PF4C-B3-007	SIRT1	Gene expression
+PF4C-B3-007	SIRT2	Gene expression
+PF4C-B3-007	SIRT5	Gene expression
+PF4C-B3-007	SIRT6	Gene expression
+PF4C-B3-007	SIRT7	Gene expression
+PF4C-B3-008	FSTL1	Gene expression
+PF4C-B3-008	ITGAV	Gene expression
+PF4C-B3-008	KCNJ8	Gene expression
+PF4C-B3-008	LUM	Gene expression
+PF4C-B3-008	MSX1	Gene expression
+PF4C-B3-008	PDGFA	Gene expression
+PF4C-B3-008	POSTN	Gene expression
+PF4C-B3-008	PRG2	Gene expression
+PF4C-B3-008	SERPINA5	Gene expression
+PF4C-B3-008	SLCO2A1	Gene expression
+PF4C-B3-008	SPP1	Gene expression
+PF4C-B3-008	TIMP1	Gene expression
+PF4C-B3-008	TNFRSF21	Gene expression
+PF4C-B3-008	VEGFA	Gene expression
+PF4C-B3-009	CA9	Gene expression
+PF4C-B3-009	HSPB1	Gene expression
+PF4C-B3-009	MAP1LC3A	Gene expression
+PF4C-B3-009	MAPK1	Gene expression
+PF4C-B3-009	STAT3	Gene expression
+PF4C-B3-009	TNFAIP3	Gene expression
+PF4C-B3-009	ZEB1	Gene expression
+PF4C-B3-010	ANXA1	mRNA_gene
+PF4C-B3-010	CAPG	mRNA_gene
+PF4C-B3-010	IFI30	mRNA_gene
+PF4C-B3-010	IGFBP2	mRNA_gene
+PF4C-B3-010	PLAUR	mRNA_gene
+PF4C-B3-010	POSTN	mRNA_gene
+PF4C-B3-010	SCG3	mRNA_gene
+PF4C-B3-010	SERPINA3	mRNA_gene
+PF4C-B3-010	SMOC1	mRNA_gene
+PF4C-B3-010	SOX8	mRNA_gene
+PF4C-B3-010	TNFRSF12A	mRNA_gene
+PF4C-B3-013	BID	Gene expression
+PF4C-B3-013	CD70	Gene expression
+PF4C-B3-013	ULBP1	Gene expression
+PF4C-B3-014	ATPAF2	mRNA_gene
+PF4C-B3-014	CHEK2	mRNA_gene
+PF4C-B3-014	COQ2	mRNA_gene
+PF4C-B3-014	DAG1	mRNA_gene
+PF4C-B3-014	MPL	mRNA_gene
+PF4C-B3-014	MPV17	mRNA_gene
+PF4C-B3-014	NGLY1	mRNA_gene
+PF4C-B3-014	PYGL	mRNA_gene
+PF4C-B3-014	RARS2	mRNA_gene
+PF4C-B3-014	SLC16A1	mRNA_gene
+PF4C-B3-014	SLC7A7	mRNA_gene
+PF4C-B3-014	TET2	mRNA_gene
+PF4C-B3-014	TXN2	mRNA_gene
+PF4C-B3-014	USB1	mRNA_gene
+PF4C-B3-015	ALKBH5	Gene expression
+PF4C-B3-015	FTO	Gene expression
+PF4C-B3-015	YTHDF2	Gene expression
+PF4C-B3-016	CASP4	Gene expression
+PF4C-B3-016	CASP9	Gene expression
+PF4C-B3-016	GSDMC	Gene expression
+PF4C-B3-016	IL1A	Gene expression
+PF4C-B3-017	CASP3	Gene expression
+PF4C-B3-017	CASP4	Gene expression
+PF4C-B3-017	CASP9	Gene expression
+PF4C-B3-017	CYCS	Gene expression
+PF4C-B3-017	ELANE	Gene expression
+PF4C-B3-017	GSDMC	Gene expression
+PF4C-B3-017	IL18	Gene expression
+PF4C-B3-017	IL1A	Gene expression
+PF4C-B3-017	PLCG1	Gene expression
+PF4C-B3-017	TP63	Gene expression
+PF4C-B3-018	FKBP3	Gene expression
+PF4C-B3-018	HDAC1	Gene expression
+PF4C-B3-018	PHF21A	Gene expression
+PF4C-B3-018	RBL1	Gene expression
+PF4C-B3-018	RUNX1T1	Gene expression
+PF4C-B3-019	ABCC3	Gene expression
+PF4C-B3-019	ANXA1	Gene expression
+PF4C-B3-019	CD14	Gene expression
+PF4C-B3-019	COL1A1	Gene expression
+PF4C-B3-019	COL4A1	Gene expression
+PF4C-B3-019	COL4A2	Gene expression
+PF4C-B3-019	FBXL19	Gene expression
+PF4C-B3-019	IGFBP2	Gene expression
+PF4C-B3-019	JPH3	Gene expression
+PF4C-B3-019	PDPN	Gene expression
+PF4C-B3-019	S100A4	Gene expression
+PF4C-B3-019	SCG3	Gene expression
+PF4C-B3-019	SERPINA3	Gene expression
+PF4C-B3-019	SMOC1	Gene expression
+PF4C-B3-019	TGFB1	Gene expression
+PF4C-B3-020	APOBEC3C	Gene expression
+PF4C-B3-020	BIRC5	Gene expression
+PF4C-B3-020	BMP2	Gene expression
+PF4C-B3-020	CALCRL	Gene expression
+PF4C-B3-020	CDK4	Gene expression
+PF4C-B3-020	CMTM3	Gene expression
+PF4C-B3-020	FCER1G	Gene expression
+PF4C-B3-020	HNF4G	Gene expression
+PF4C-B3-020	IL24	Gene expression
+PF4C-B3-020	JAG1	Gene expression
+PF4C-B3-020	NOX4	Gene expression
+PF4C-B3-020	SOCS1	Gene expression
+PF4C-B3-020	TNC	Gene expression
+PF4C-B3-020	TRIM5	Gene expression
+PF4C-B3-020	VIM	Gene expression
+PF4C-B3-021	FLNC	Gene expression
+PF4C-B3-021	PARVB	Gene expression
+PF4C-B3-021	PGF	Gene expression
+PF4C-B3-021	PIK3CA	Gene expression
+PF4C-B3-021	RAP1B	Gene expression
+PF4C-B3-021	SDC1	Gene expression
+PF4C-B3-021	SPP1	Gene expression
+PF4C-B3-021	VEGFA	Gene expression
+PF4C-B3-023	DKK3	Gene expression
+PF4C-B3-023	EIF3L	Gene expression
+PF4C-B3-023	EIF4A2	Gene expression
+PF4C-B3-023	FDPS	Gene expression
+PF4C-B3-023	FLII	Gene expression
+PF4C-B3-023	FN1	Gene expression
+PF4C-B3-023	GRN	Gene expression
+PF4C-B3-023	HSPA5	Gene expression
+PF4C-B3-023	LY6E	Gene expression
+PF4C-B3-023	MAP1LC3A	Gene expression
+PF4C-B3-023	MTPN	Gene expression
+PF4C-B3-023	NDUFB2	Gene expression
+PF4C-B3-023	PLD3	Gene expression
+PF4C-B3-023	RNF10	Gene expression
+PF4C-B3-023	RPS19	Gene expression
+PF4C-B3-023	RTN4	Gene expression
+PF4C-B3-023	SCG5	Gene expression
+PF4C-B3-023	SERPINE2	Gene expression
+PF4C-B3-023	TAGLN2	Gene expression
+PF4C-B3-023	TTYH3	Gene expression
+PF4C-B3-024	EMP3	mRNA_gene
+PF4C-B3-024	KDELR2	mRNA_gene
+PF4C-B3-024	TAGLN2	mRNA_gene
+PF4C-B3-024	TIMP1	mRNA_gene
+PF4C-B3-025	BID	Gene expression
+PF4C-B3-025	BIRC5	Gene expression
+PF4C-B3-025	CX3CL1	Gene expression
+PF4C-B3-025	DAPK2	Gene expression
+PF4C-B3-025	FKBP1B	Gene expression
+PF4C-B3-025	GABARAP	Gene expression
+PF4C-B3-025	HSP90AB1	Gene expression
+PF4C-B3-025	IKBKE	Gene expression
+PF4C-B3-025	MAPK3	Gene expression
+PF4C-B3-025	MAPK8IP1	Gene expression
+PF4C-B3-025	NFE2L2	Gene expression
+PF4C-B3-025	NPC1	Gene expression
+PF4C-B3-025	PRKCQ	Gene expression
+PF4C-B3-025	PTEN	Gene expression
+PF4C-B3-025	SUPT20H	Gene expression
+PF4C-B3-026	NOP2	Gene expression
+PF4C-B3-026	NSUN4	Gene expression
+PF4C-B3-026	NSUN5	Gene expression
+PF4C-B3-026	NSUN6	Gene expression
+PF4C-B3-026	NSUN7	Gene expression
+PF4C-B3-028	CPT2	mRNA_gene
+PF4C-B3-028	ECI2	mRNA_gene
+PF4C-B3-028	MCCC2	mRNA_gene
+PF4C-B3-028	OXCT1	mRNA_gene
+PF4C-B3-028	SUCLG2	mRNA_gene
+PF4C-B3-029	ARC	mRNA_gene
+PF4C-B3-029	CCDC149	mRNA_gene
+PF4C-B3-029	CENPH	mRNA_gene
+PF4C-B3-029	CPM	mRNA_gene
+PF4C-B3-029	DDIT4	mRNA_gene
+PF4C-B3-029	EVI2B	mRNA_gene
+PF4C-B3-029	FAM126A	mRNA_gene
+PF4C-B3-029	FAM86B1	mRNA_gene
+PF4C-B3-029	FNDC3B	mRNA_gene
+PF4C-B3-029	GPR61	mRNA_gene
+PF4C-B3-029	HNRNPA1	mRNA_gene
+PF4C-B3-029	LMO7	mRNA_gene
+PF4C-B3-029	MGAT2	mRNA_gene
+PF4C-B3-029	SDE2	mRNA_gene
+PF4C-B3-029	SGCD	mRNA_gene
+PF4C-B3-029	SLC1A6	mRNA_gene
+PF4C-B3-029	SLC25A23	mRNA_gene
+PF4C-B3-029	SLCO1C1	mRNA_gene
+PF4C-B3-029	SNX10	mRNA_gene
+PF4C-B3-029	UBE2D2	mRNA_gene
+PF4C-B3-029	XPOT	mRNA_gene
+PF4C-B3-030	CHI3L1	Gene expression
+PF4C-B3-030	MMP9	Gene expression
+PF4C-B3-030	POSTN	Gene expression
+PF4C-B3-030	SAA1	Gene expression
+PF4C-B4-001	AADAT	mRNA_gene
+PF4C-B4-001	ACAT1	mRNA_gene
+PF4C-B4-001	AGXT	mRNA_gene
+PF4C-B4-001	AIP	mRNA_gene
+PF4C-B4-001	ALDH9A1	mRNA_gene
+PF4C-B4-001	ASL	mRNA_gene
+PF4C-B4-001	AZIN2	mRNA_gene
+PF4C-B4-001	BCAT2	mRNA_gene
+PF4C-B4-001	CBS	mRNA_gene
+PF4C-B4-001	CKM	mRNA_gene
+PF4C-B4-001	CKMT1A	mRNA_gene
+PF4C-B4-001	GCLC	mRNA_gene
+PF4C-B4-001	GPT	mRNA_gene
+PF4C-B4-001	INHBA	mRNA_gene
+PF4C-B4-001	KMO	mRNA_gene
+PF4C-B4-001	NQO1	mRNA_gene
+PF4C-B4-001	OAT	mRNA_gene
+PF4C-B4-001	ODC1	mRNA_gene
+PF4C-B4-001	OGDH	mRNA_gene
+PF4C-B4-001	PAH	mRNA_gene
+PF4C-B4-001	PCBD1	mRNA_gene
+PF4C-B4-001	PSMB2	mRNA_gene
+PF4C-B4-001	PSMB4	mRNA_gene
+PF4C-B4-001	PSMC2	mRNA_gene
+PF4C-B4-001	PSMC6	mRNA_gene
+PF4C-B4-001	PSMD12	mRNA_gene
+PF4C-B4-001	PSME4	mRNA_gene
+PF4C-B4-001	SLC25A10	mRNA_gene
+PF4C-B4-001	SRM	mRNA_gene
+PF4C-B4-001	SUOX	mRNA_gene
+PF4C-B4-002	GATA3	mRNA_gene
+PF4C-B4-002	NLRP2	mRNA_gene
+PF4C-B4-002	NLRP7	mRNA_gene
+PF4C-B4-002	NOD2	mRNA_gene
+PF4C-B4-002	TERT	mRNA_gene
+PF4C-B4-003	GADD45G	mRNA_gene
+PF4C-B4-003	GRIK2	mRNA_gene
+PF4C-B4-003	NTN4	mRNA_gene
+PF4C-B4-003	NUAK2	mRNA_gene
+PF4C-B4-003	RBP1	mRNA_gene
+PF4C-B4-003	RRM2	mRNA_gene
+PF4C-B4-003	TWIST1	mRNA_gene
+PF4C-B4-003	WEE1	mRNA_gene
+PF4C-B4-007	FAM3C	Gene expression
+PF4C-B4-007	GJB2	Gene expression
+PF4C-B4-007	KDM5B	Gene expression
+PF4C-B4-007	MARVELD1	Gene expression
+PF4C-B4-007	TGM2	Gene expression
+PF4C-B4-009	ADCY5	mRNA_gene_symbol
+PF4C-B4-009	BDKRB1	mRNA_gene_symbol
+PF4C-B4-009	CAMK2G	mRNA_gene_symbol
+PF4C-B4-009	HTR2A	mRNA_gene_symbol
+PF4C-B4-009	MAPK13	mRNA_gene_symbol
+PF4C-B4-009	P2RY2	mRNA_gene_symbol
+PF4C-B4-009	PLA2G4D	mRNA_gene_symbol
+PF4C-B4-009	PRKCB	mRNA_gene_symbol
+PF4C-B4-009	TRPM6	mRNA_gene_symbol
+PF4C-B4-009	TRPV3	mRNA_gene_symbol
+PF4C-B4-010	APOE	Gene expression
+PF4C-B4-010	CXCL16	Gene expression
+PF4C-B4-010	ELOVL2	Gene expression
+PF4C-B4-010	FABP5	Gene expression
+PF4C-B4-010	S100A11	Gene expression
+PF4C-B4-010	SCD	Gene expression
+PF4C-B4-010	TNFRSF12A	Gene expression
+PF4C-B4-011	EXO1	mRNA_gene_symbol
+PF4C-B4-011	POLD2	mRNA_gene_symbol
+PF4C-B4-011	POLD4	mRNA_gene_symbol
+PF4C-B4-011	RFC1	mRNA_gene_symbol
+PF4C-B4-011	RFC2	mRNA_gene_symbol
+PF4C-B4-011	RFC4	mRNA_gene_symbol
+PF4C-B4-011	RPA3	mRNA_gene_symbol
+PF4C-B4-012	AP1S1	mRNA_gene_symbol
+PF4C-B4-012	CA14	mRNA_gene_symbol
+PF4C-B4-012	HEPH	mRNA_gene_symbol
+PF4C-B4-012	HMGCL	mRNA_gene_symbol
+PF4C-B4-012	HOXD10	mRNA_gene_symbol
+PF4C-B4-012	NACAD	mRNA_gene_symbol
+PF4C-B4-012	NDUFB2	mRNA_gene_symbol
+PF4C-B4-012	SCARA3	mRNA_gene_symbol
+PF4C-B4-012	SH2D1B	mRNA_gene_symbol
+PF4C-B4-012	SLC9A3R2	mRNA_gene_symbol
+PF4C-B4-012	SOX21	mRNA_gene_symbol
+PF4C-B4-015	ABI3	mRNA_gene_symbol
+PF4C-B4-015	AP1B1	mRNA_gene_symbol
+PF4C-B4-015	C3	mRNA_gene_symbol
+PF4C-B4-015	CD53	mRNA_gene_symbol
+PF4C-B4-015	CYBB	mRNA_gene_symbol
+PF4C-B4-015	GAL3ST4	mRNA_gene_symbol
+PF4C-B4-015	PLEKHO2	mRNA_gene_symbol
+PF4C-B4-015	PLXDC2	mRNA_gene_symbol
+PF4C-B4-015	RIN3	mRNA_gene_symbol
+PF4C-B4-015	SCIN	mRNA_gene_symbol
+PF4C-B4-015	SIGLEC10	mRNA_gene_symbol
+PF4C-B4-015	SLA	mRNA_gene_symbol
+PF4C-B4-015	SLC37A2	mRNA_gene_symbol
+PF4C-B4-015	TREM2	mRNA_gene_symbol
+PF4C-B4-016	ANXA1	mRNA_gene_symbol
+PF4C-B4-016	CCL2	mRNA_gene_symbol
+PF4C-B4-016	CLIC1	mRNA_gene_symbol
+PF4C-B4-016	GSN	mRNA_gene_symbol
+PF4C-B4-016	LGALS1	mRNA_gene_symbol
+PF4C-B4-016	MAP1B	mRNA_gene_symbol
+PF4C-B4-016	MGP	mRNA_gene_symbol
+PF4C-B4-016	MYL12A	mRNA_gene_symbol
+PF4C-B4-016	PDLIM4	mRNA_gene_symbol
+PF4C-B4-016	POSTN	mRNA_gene_symbol
+PF4C-B4-017	CAPG	Gene expression
+PF4C-B4-017	CLIC1	Gene expression
+PF4C-B4-017	GLB1	Gene expression
+PF4C-B4-017	GNG12	Gene expression
+PF4C-B4-017	KIF20A	Gene expression
+PF4C-B4-017	PDIA4	Gene expression
+PF4C-B4-017	SULF2	Gene expression
+PF4C-B4-017	TAGLN2	Gene expression
+PF4C-B4-017	WEE1	Gene expression
+PF4C-B4-018	CDC20	mRNA_gene_symbol
+PF4C-B4-018	CDCA5	mRNA_gene_symbol
+PF4C-B4-018	KIF11	mRNA_gene_symbol
+PF4C-B4-018	KIF20A	mRNA_gene_symbol
+PF4C-B4-018	KIF4A	mRNA_gene_symbol
+PF4C-B4-018	PBK	mRNA_gene_symbol
+PF4C-B4-018	RRM2	mRNA_gene_symbol
+PF4C-B4-021	AKT1	Gene expression
+PF4C-B4-021	ELK1	Gene expression
+PF4C-B4-021	FES	Gene expression
+PF4C-B4-021	HSP90B1	Gene expression
+PF4C-B4-021	IGF1R	Gene expression
+PF4C-B4-021	IGFBP2	Gene expression
+PF4C-B4-021	IGFBP5	Gene expression
+PF4C-B4-021	IKBKB	Gene expression
+PF4C-B4-021	IL2RG	Gene expression
+PF4C-B4-021	JAK3	Gene expression
+PF4C-B4-021	MDM2	Gene expression
+PF4C-B4-021	NFKB1	Gene expression
+PF4C-B4-021	PCNA	Gene expression
+PF4C-B4-021	PIK3CD	Gene expression
+PF4C-B4-021	RPS6KA1	Gene expression
+PF4C-B4-021	SOCS1	Gene expression
+PF4C-B4-023	CASP1	Gene expression
+PF4C-B4-023	CASP3	Gene expression
+PF4C-B4-023	IL18	Gene expression
+PF4C-B4-024	ADAMDEC1	mRNA_gene_symbol
+PF4C-B4-024	HOXA5	mRNA_gene_symbol
+PF4C-B4-024	HOXD10	mRNA_gene_symbol
+PF4C-B4-024	MYBPH	mRNA_gene_symbol
+PF4C-B4-024	POSTN	mRNA_gene_symbol
+PF4C-B4-024	PTPN2	mRNA_gene_symbol
+PF4C-B4-024	WT1	mRNA_gene_symbol
+PF4C-B4-025	CHRM3	mRNA_gene_symbol
+PF4C-B4-025	ITPKA	mRNA_gene_symbol
+PF4C-B4-025	L1CAM	mRNA_gene_symbol
+PF4C-B4-025	NPTN	mRNA_gene_symbol
+PF4C-B4-025	OSMR	mRNA_gene_symbol
+PF4C-B4-025	PDLIM1	mRNA_gene_symbol
+PF4C-B4-025	PLK2	mRNA_gene_symbol
+PF4C-B4-025	POSTN	mRNA_gene_symbol
+PF4C-B4-025	TMEM71	mRNA_gene_symbol
+PF4C-B4-026	ARMC10	mRNA_gene_symbol
+PF4C-B4-026	AUTS2	mRNA_gene_symbol
+PF4C-B4-026	EN1	mRNA_gene_symbol
+PF4C-B4-026	EREG	mRNA_gene_symbol
+PF4C-B4-026	ERP29	mRNA_gene_symbol
+PF4C-B4-026	HOXA2	mRNA_gene_symbol
+PF4C-B4-026	HOXA5	mRNA_gene_symbol
+PF4C-B4-026	HOXA7	mRNA_gene_symbol
+PF4C-B4-026	HSPA5	mRNA_gene_symbol
+PF4C-B4-026	LAP3	mRNA_gene_symbol
+PF4C-B4-026	MDK	mRNA_gene_symbol
+PF4C-B4-026	MTRF1L	mRNA_gene_symbol
+PF4C-B4-026	NBEAL1	mRNA_gene_symbol
+PF4C-B4-026	SLC37A3	mRNA_gene_symbol
+PF4C-B4-026	SLC6A6	mRNA_gene_symbol
+PF4C-B4-027	ACACB	Gene expression
+PF4C-B4-027	ACADSB	Gene expression
+PF4C-B4-027	ADCY3	Gene expression
+PF4C-B4-027	G6PC3	Gene expression
+PF4C-B4-027	GLB1	Gene expression
+PF4C-B4-027	GNAI3	Gene expression
+PF4C-B4-027	HADHA	Gene expression
+PF4C-B4-027	LCAT	Gene expression
+PF4C-B4-027	NEU4	Gene expression
+PF4C-B4-027	PAFAH2	Gene expression
+PF4C-B4-027	SGPL1	Gene expression
+PF4C-B4-029	CRLF1	Gene expression
+PF4C-B4-029	PLOD2	Gene expression
+PF4C-B4-029	SPOCK1	Gene expression
+PF4C-B4-029	SPP1	Gene expression
+PF4C-B4-030	EPHB1	Gene expression
+PF4C-B4-030	GFRA1	Gene expression
+PF4C-B4-030	IBSP	Gene expression
+PF4C-B4-030	MEOX2	Gene expression
+PF4C-B4-030	NOG	Gene expression
+PF4C-FINAL-001	CD274	gene_expression
+PF4C-FINAL-001	CD276	gene_expression
+PF4C-FINAL-001	CD80	gene_expression
+PF4C-FINAL-001	PDCD1LG2	gene_expression
+PF4C-FINAL-002	BMP1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	BMP2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	CASP3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	CD151	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	COL8A1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	LOX	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	PLOD3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	SDC1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	SERPINH1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	SPP1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-002	TIMP1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-003	CCL18	gene_expression
+PF4C-FINAL-003	CCL2	gene_expression
+PF4C-FINAL-003	CCL5	gene_expression
+PF4C-FINAL-003	CXCL16	gene_expression
+PF4C-FINAL-004	DLD	gene_expression
+PF4C-FINAL-004	FDX1	gene_expression
+PF4C-FINAL-004	LIAS	gene_expression
+PF4C-FINAL-004	LIPT1	gene_expression
+PF4C-FINAL-004	PDHA1	gene_expression
+PF4C-FINAL-008	CRLF1	gene_expression
+PF4C-FINAL-008	EGR1	gene_expression
+PF4C-FINAL-008	EN2	gene_expression
+PF4C-FINAL-008	ICAM5	gene_expression
+PF4C-FINAL-008	MFAP2	gene_expression
+PF4C-FINAL-008	MSMP	gene_expression
+PF4C-FINAL-008	NEFM	gene_expression
+PF4C-FINAL-008	NRGN	gene_expression
+PF4C-FINAL-008	RGS4	gene_expression
+PF4C-FINAL-008	SLC17A7	gene_expression
+PF4C-FINAL-008	SOX3	gene_expression
+PF4C-FINAL-009	G0S2	gene_expression
+PF4C-FINAL-009	PLAUR	gene_expression
+PF4C-FINAL-009	SPAG4	gene_expression
+PF4C-FINAL-012	ADORA1	mRNA_gene
+PF4C-FINAL-012	AURKB	mRNA_gene
+PF4C-FINAL-012	AVPR1B	mRNA_gene
+PF4C-FINAL-012	BCHE	mRNA_gene
+PF4C-FINAL-012	CA12	mRNA_gene
+PF4C-FINAL-012	CA3	mRNA_gene
+PF4C-FINAL-012	CASP6	mRNA_gene
+PF4C-FINAL-012	MGMT	mRNA_gene
+PF4C-FINAL-012	NFE2L2	mRNA_gene
+PF4C-FINAL-012	NTRK3	mRNA_gene
+PF4C-FINAL-012	SMO	mRNA_gene
+PF4C-FINAL-016	DLAT	gene_expression
+PF4C-FINAL-016	DLD	gene_expression
+PF4C-FINAL-016	FDX1	gene_expression
+PF4C-FINAL-016	GLS	gene_expression
+PF4C-FINAL-016	LIAS	gene_expression
+PF4C-FINAL-016	LIPT1	gene_expression
+PF4C-FINAL-016	MTF1	gene_expression
+PF4C-FINAL-016	PDHA1	gene_expression
+PF4C-FINAL-016	PDHB	gene_expression
+PF4C-FINAL-017	ACOT7	gene_expression
+PF4C-FINAL-017	ACTA1	gene_expression
+PF4C-FINAL-017	EEF1B22	gene_expression
+PF4C-FINAL-017	ETV4	gene_expression
+PF4C-FINAL-017	GALE	gene_expression
+PF4C-FINAL-017	GUCA1A	gene_expression
+PF4C-FINAL-017	MGMT	gene_expression
+PF4C-FINAL-017	MICALL2	gene_expression
+PF4C-FINAL-017	NLRP12	gene_expression
+PF4C-FINAL-017	NMNAT3	gene_expression
+PF4C-FINAL-017	NOL3	gene_expression
+PF4C-FINAL-017	NT5M	gene_expression
+PF4C-FINAL-017	NUAK2	gene_expression
+PF4C-FINAL-017	OR2F2	gene_expression
+PF4C-FINAL-017	PCDHB3	gene_expression
+PF4C-FINAL-017	PDE6H	gene_expression
+PF4C-FINAL-017	RENBP	gene_expression
+PF4C-FINAL-017	RPL39L	gene_expression
+PF4C-FINAL-017	SLC35G5	gene_expression
+PF4C-FINAL-017	TH	gene_expression
+PF4C-FINAL-017	TSPAN4	gene_expression
+PF4C-FINAL-017	USP44	gene_expression
+PF4C-FINAL-018	BARD1	mRNA_gene
+PF4C-FINAL-018	CTSB	mRNA_gene
+PF4C-FINAL-018	DCT	mRNA_gene
+PF4C-FINAL-018	GSTP1	mRNA_gene
+PF4C-FINAL-018	HOXC6	mRNA_gene
+PF4C-FINAL-018	NEUROD1	mRNA_gene
+PF4C-FINAL-020	CFP	gene_expression
+PF4C-FINAL-020	CHGB	gene_expression
+PF4C-FINAL-020	FGFR1	gene_expression
+PF4C-FINAL-020	FLT3	gene_expression
+PF4C-FINAL-020	NR2C1	gene_expression
+PF4C-FINAL-020	S100P	gene_expression
+PF4C-FINAL-020	SEMA4G	gene_expression
+PF4C-FINAL-020	VTN	gene_expression
+PF4C-FINAL-022	CFH	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-022	GALNT3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-022	SMC4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-022	VAV3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-024	ASMT	gene_expression
+PF4C-FINAL-024	CYP1A1	gene_expression
+PF4C-FINAL-024	IL4I1	gene_expression
+PF4C-FINAL-024	OGDHL	gene_expression
+PF4C-FINAL-025	ARHGAP12	gene_expression
+PF4C-FINAL-025	CALN1	gene_expression
+PF4C-FINAL-025	FAM171A1	gene_expression
+PF4C-FINAL-025	H2AX	gene_expression
+PF4C-FINAL-025	IDI1	gene_expression
+PF4C-FINAL-025	NRG3	gene_expression
+PF4C-FINAL-025	PHF11	gene_expression
+PF4C-FINAL-025	PPM1M	gene_expression
+PF4C-FINAL-025	PTDSS1	gene_expression
+PF4C-FINAL-025	SCYL2	gene_expression
+PF4C-FINAL-025	SEMA4G	gene_expression
+PF4C-FINAL-026	ATP2B2	mRNA_gene
+PF4C-FINAL-026	CACNA1B	mRNA_gene
+PF4C-FINAL-026	CACNA1E	mRNA_gene
+PF4C-FINAL-026	CACNA1I	mRNA_gene
+PF4C-FINAL-026	CAMK2A	mRNA_gene
+PF4C-FINAL-026	CAMK2B	mRNA_gene
+PF4C-FINAL-026	CAMK4	mRNA_gene
+PF4C-FINAL-026	F2R	mRNA_gene
+PF4C-FINAL-026	GNAL	mRNA_gene
+PF4C-FINAL-026	GRIN2A	mRNA_gene
+PF4C-FINAL-026	GRM1	mRNA_gene
+PF4C-FINAL-026	GRM5	mRNA_gene
+PF4C-FINAL-026	NOS1	mRNA_gene
+PF4C-FINAL-026	PDE1A	mRNA_gene
+PF4C-FINAL-026	PDE1B	mRNA_gene
+PF4C-FINAL-026	PRKCB	mRNA_gene
+PF4C-FINAL-026	RYR2	mRNA_gene
+PF4C-FINAL-026	SLC8A2	mRNA_gene
+PF4C-FINAL-028	ABCC3	gene_expression
+PF4C-FINAL-028	BST1	gene_expression
+PF4C-FINAL-028	PTX3	gene_expression
+PF4C-FINAL-028	SPP1	gene_expression
+PF4C-FINAL-029	SOCS3	gene_expression
+PF4C-FINAL-029	SPP1	gene_expression
+PF4C-FINAL-029	TGFB2	gene_expression
+PF4C-FINAL-029	VEGFA	gene_expression
+PF4C-FINAL-032	CPEB3	mRNA_gene
+PF4C-FINAL-032	CSDC2	mRNA_gene
+PF4C-FINAL-032	DHX15	mRNA_gene
+PF4C-FINAL-032	DICER1	mRNA_gene
+PF4C-FINAL-032	DYRK1A	mRNA_gene
+PF4C-FINAL-032	ECD	mRNA_gene
+PF4C-FINAL-032	HNRNPH2	mRNA_gene
+PF4C-FINAL-032	INTS6	mRNA_gene
+PF4C-FINAL-032	KDM1A	mRNA_gene
+PF4C-FINAL-032	METTL6	mRNA_gene
+PF4C-FINAL-032	MYOD1	mRNA_gene
+PF4C-FINAL-032	NSUN6	mRNA_gene
+PF4C-FINAL-032	PQBP1	mRNA_gene
+PF4C-FINAL-032	RCL1	mRNA_gene
+PF4C-FINAL-032	TRMT11	mRNA_gene
+PF4C-FINAL-032	TRMT2B	mRNA_gene
+PF4C-FINAL-032	TSLIG2	mRNA_gene
+PF4C-FINAL-032	TYW1	mRNA_gene
+PF4C-FINAL-032	ZFP36L1	mRNA_gene
+PF4C-FINAL-036	CLU	gene_expression
+PF4C-FINAL-036	CNN3	gene_expression
+PF4C-FINAL-036	ETV1	gene_expression
+PF4C-FINAL-036	GFAP	gene_expression
+PF4C-FINAL-036	GPM6A	gene_expression
+PF4C-FINAL-036	PTN	gene_expression
+PF4C-FINAL-036	PTPRZ1	gene_expression
+PF4C-FINAL-036	SCG3	gene_expression
+PF4C-FINAL-036	SCRG1	gene_expression
+PF4C-FINAL-036	SERPINE2	gene_expression
+PF4C-FINAL-036	SOX2	gene_expression
+PF4C-FINAL-036	SPARCL1	gene_expression
+PF4C-FINAL-037	ANXA2	gene_expression
+PF4C-FINAL-037	CDC73	gene_expression
+PF4C-FINAL-037	FEN1	gene_expression
+PF4C-FINAL-037	GANAB	gene_expression
+PF4C-FINAL-037	HNRNPA0	gene_expression
+PF4C-FINAL-037	IGF2BP3	gene_expression
+PF4C-FINAL-037	LCK	gene_expression
+PF4C-FINAL-037	PPP1R1B	gene_expression
+PF4C-FINAL-037	RMI2	gene_expression
+PF4C-FINAL-037	ZGPAT	gene_expression
+PF4C-FINAL-039	AURKB	gene_expression
+PF4C-FINAL-039	CDK4	gene_expression
+PF4C-FINAL-039	KCNN4	gene_expression
+PF4C-FINAL-039	MKX	gene_expression
+PF4C-FINAL-039	NBPF8	gene_expression
+PF4C-FINAL-039	NOG	gene_expression
+PF4C-FINAL-039	P2RY6	gene_expression
+PF4C-FINAL-039	RARRES1	gene_expression
+PF4C-FINAL-039	SLC25A43	gene_expression
+PF4C-FINAL-039	STEAP1	gene_expression
+PF4C-FINAL-039	TSKU	gene_expression
+PF4C-FINAL-041	CLEC5A	gene_expression
+PF4C-FINAL-041	LDHA	gene_expression
+PF4C-FINAL-041	MAPK8	gene_expression
+PF4C-FINAL-041	PLCB1	gene_expression
+PF4C-FINAL-041	TMBIM1	gene_expression
+PF4C-FINAL-041	TNFAIP6	gene_expression
+PF4C-FINAL-042	CORO1A	gene_expression
+PF4C-FINAL-042	FASN	gene_expression
+PF4C-FINAL-042	HSPA5	gene_expression
+PF4C-FINAL-042	IL2RG	gene_expression
+PF4C-FINAL-042	LEF1	gene_expression
+PF4C-FINAL-042	MCM2	gene_expression
+PF4C-FINAL-042	NFIL3	gene_expression
+PF4C-FINAL-042	PML	gene_expression
+PF4C-FINAL-042	RPL3	gene_expression
+PF4C-FINAL-042	TUBA1B	gene_expression
+PF4C-FINAL-043	BSCL2	gene_expression
+PF4C-FINAL-043	CCL2	gene_expression
+PF4C-FINAL-043	CLEC5A	gene_expression
+PF4C-FINAL-043	GPRASP1	gene_expression
+PF4C-FINAL-043	HOXA5	gene_expression
+PF4C-FINAL-043	HOXC6	gene_expression
+PF4C-FINAL-043	PTX3	gene_expression
+PF4C-FINAL-044	DHTKD1	mRNA_gene
+PF4C-FINAL-044	GLUD1	mRNA_gene
+PF4C-FINAL-044	OGDH	mRNA_gene
+PF4C-FINAL-044	PSMB8	mRNA_gene
+PF4C-FINAL-044	PSMB9	mRNA_gene
+PF4C-FINAL-044	PSMC1	mRNA_gene
+PF4C-FINAL-044	PSMC5	mRNA_gene
+PF4C-FINAL-044	PSMD12	mRNA_gene
+PF4C-FINAL-044	PSMD3	mRNA_gene
+PF4C-FINAL-044	PSMD5	mRNA_gene
+PF4C-FINAL-044	PSMD6	mRNA_gene
+PF4C-FINAL-044	PSMF1	mRNA_gene
+PF4C-FINAL-045	ACACA	mRNA_gene
+PF4C-FINAL-045	ACSL1	mRNA_gene
+PF4C-FINAL-045	ACSL6	mRNA_gene
+PF4C-FINAL-045	AKR1C3	mRNA_gene
+PF4C-FINAL-045	ANO6	mRNA_gene
+PF4C-FINAL-045	AURKA	mRNA_gene
+PF4C-FINAL-045	BAP1	mRNA_gene
+PF4C-FINAL-045	CDKN1A	mRNA_gene
+PF4C-FINAL-045	CISD1	mRNA_gene
+PF4C-FINAL-045	CP	mRNA_gene
+PF4C-FINAL-045	CYBB	mRNA_gene
+PF4C-FINAL-045	G3BP1	mRNA_gene
+PF4C-FINAL-045	G6PD	mRNA_gene
+PF4C-FINAL-045	GLS2	mRNA_gene
+PF4C-FINAL-045	HMOX1	mRNA_gene
+PF4C-FINAL-045	HSPB1	mRNA_gene
+PF4C-FINAL-045	LOX	mRNA_gene
+PF4C-FINAL-045	MAP3K5	mRNA_gene
+PF4C-FINAL-045	PCBP1	mRNA_gene
+PF4C-FINAL-045	PGD	mRNA_gene
+PF4C-FINAL-045	PRNP	mRNA_gene
+PF4C-FINAL-045	RB1	mRNA_gene
+PF4C-FINAL-045	STEAP3	mRNA_gene
+PF4C-FINAL-045	TF	mRNA_gene
+PF4C-FINAL-045	TP53	mRNA_gene
+PF4C-FINAL-046	ACTB	mRNA_gene
+PF4C-FINAL-046	CLNS1A	mRNA_gene
+PF4C-FINAL-046	DYDC1	mRNA_gene
+PF4C-FINAL-046	EED	mRNA_gene
+PF4C-FINAL-046	EZH2	mRNA_gene
+PF4C-FINAL-046	MACROH2A2	mRNA_gene
+PF4C-FINAL-046	MEN1	mRNA_gene
+PF4C-FINAL-046	METTL1	mRNA_gene
+PF4C-FINAL-046	PHF1	mRNA_gene
+PF4C-FINAL-046	PPP1CA	mRNA_gene
+PF4C-FINAL-046	SIRT1	mRNA_gene
+PF4C-FINAL-046	SUZ12	mRNA_gene
+PF4C-FINAL-049	ABCD1	gene_expression
+PF4C-FINAL-049	ACADSB	gene_expression
+PF4C-FINAL-049	CEL	gene_expression
+PF4C-FINAL-049	CPT2	gene_expression
+PF4C-FINAL-049	GCDH	gene_expression
+PF4C-FINAL-049	NUDT19	gene_expression
+PF4C-FINAL-049	PCCA	gene_expression
+PF4C-FINAL-049	PEX13	gene_expression
+PF4C-FINAL-050	BIRC5	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	FAM125B	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	HDAC4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	MT1E	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	RAB1A	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	SFXN4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	TEAD2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	TPX2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-050	TUBA1B	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-051	ACN9	gene_expression
+PF4C-FINAL-051	AFTPH	gene_expression
+PF4C-FINAL-051	ALS2CR4	gene_expression
+PF4C-FINAL-051	AMIGO2	gene_expression
+PF4C-FINAL-051	ANGPTL1	gene_expression
+PF4C-FINAL-051	ARHGAP32	gene_expression
+PF4C-FINAL-051	ARHGAP39	gene_expression
+PF4C-FINAL-051	ASF1A	gene_expression
+PF4C-FINAL-051	C10ORF88	gene_expression
+PF4C-FINAL-051	C11ORF71	gene_expression
+PF4C-FINAL-051	CASP8	gene_expression
+PF4C-FINAL-051	EFNB2	gene_expression
+PF4C-FINAL-051	GPNMB	gene_expression
+PF4C-FINAL-051	IL13RA2	gene_expression
+PF4C-FINAL-051	ITGA7	gene_expression
+PF4C-FINAL-051	LDHA	gene_expression
+PF4C-FINAL-051	LMAN2L	gene_expression
+PF4C-FINAL-051	LOC283027	gene_expression
+PF4C-FINAL-051	LOXL3	gene_expression
+PF4C-FINAL-051	MED29	gene_expression
+PF4C-FINAL-051	MRRF	gene_expression
+PF4C-FINAL-051	RPL12	gene_expression
+PF4C-FINAL-051	SLC25A19	gene_expression
+PF4C-FINAL-051	ST6GAL2	gene_expression
+PF4C-FINAL-051	TBC1D19	gene_expression
+PF4C-FINAL-052	AFTPH	gene_expression
+PF4C-FINAL-052	ASF1A	gene_expression
+PF4C-FINAL-052	ITGA7	gene_expression
+PF4C-FINAL-053	AGTPBP1	mRNA_gene_symbol
+PF4C-FINAL-053	ALCAM	mRNA_gene_symbol
+PF4C-FINAL-053	ALKBH4	mRNA_gene_symbol
+PF4C-FINAL-053	AMIGO2	mRNA_gene_symbol
+PF4C-FINAL-053	AMOT	mRNA_gene_symbol
+PF4C-FINAL-053	AP4M1	mRNA_gene_symbol
+PF4C-FINAL-053	ARNTL	mRNA_gene_symbol
+PF4C-FINAL-053	ATP1B1	mRNA_gene_symbol
+PF4C-FINAL-053	BCAP29	mRNA_gene_symbol
+PF4C-FINAL-053	BRF2	mRNA_gene_symbol
+PF4C-FINAL-053	C13ORF18	mRNA_gene_symbol
+PF4C-FINAL-053	C1ORF176	mRNA_gene_symbol
+PF4C-FINAL-053	C7ORF26	mRNA_gene_symbol
+PF4C-FINAL-053	C8ORF44	mRNA_gene_symbol
+PF4C-FINAL-053	C9ORF53	mRNA_gene_symbol
+PF4C-FINAL-053	CDC42EP2	mRNA_gene_symbol
+PF4C-FINAL-053	CHD3	mRNA_gene_symbol
+PF4C-FINAL-053	CST4	mRNA_gene_symbol
+PF4C-FINAL-053	EFNA5	mRNA_gene_symbol
+PF4C-FINAL-053	FBXO7	mRNA_gene_symbol
+PF4C-FINAL-053	FKRP	mRNA_gene_symbol
+PF4C-FINAL-053	FLJ21963	mRNA_gene_symbol
+PF4C-FINAL-053	FOXO4	mRNA_gene_symbol
+PF4C-FINAL-053	FXYD5	mRNA_gene_symbol
+PF4C-FINAL-053	FZD7	mRNA_gene_symbol
+PF4C-FINAL-053	GTF2A1	mRNA_gene_symbol
+PF4C-FINAL-053	HUS1	mRNA_gene_symbol
+PF4C-FINAL-053	ITPKC	mRNA_gene_symbol
+PF4C-FINAL-053	KCNE4	mRNA_gene_symbol
+PF4C-FINAL-053	KCNF1	mRNA_gene_symbol
+PF4C-FINAL-053	LAMB4	mRNA_gene_symbol
+PF4C-FINAL-053	LFNG	mRNA_gene_symbol
+PF4C-FINAL-053	LHX6	mRNA_gene_symbol
+PF4C-FINAL-053	LZTS1	mRNA_gene_symbol
+PF4C-FINAL-053	MEOX2	mRNA_gene_symbol
+PF4C-FINAL-053	MGST3	mRNA_gene_symbol
+PF4C-FINAL-053	MNX1	mRNA_gene_symbol
+PF4C-FINAL-053	MYO1D	mRNA_gene_symbol
+PF4C-FINAL-053	NANS	mRNA_gene_symbol
+PF4C-FINAL-053	NPAS3	mRNA_gene_symbol
+PF4C-FINAL-053	PCDHGC3	mRNA_gene_symbol
+PF4C-FINAL-053	PDE4B	mRNA_gene_symbol
+PF4C-FINAL-053	PDLIM1	mRNA_gene_symbol
+PF4C-FINAL-053	PLEKHA4	mRNA_gene_symbol
+PF4C-FINAL-053	PTPRK	mRNA_gene_symbol
+PF4C-FINAL-053	RGS6	mRNA_gene_symbol
+PF4C-FINAL-053	RORA	mRNA_gene_symbol
+PF4C-FINAL-053	RPS6KA5	mRNA_gene_symbol
+PF4C-FINAL-053	SEMA6D	mRNA_gene_symbol
+PF4C-FINAL-053	SIGLEC9	mRNA_gene_symbol
+PF4C-FINAL-053	SLC38A1	mRNA_gene_symbol
+PF4C-FINAL-053	SLC4A4	mRNA_gene_symbol
+PF4C-FINAL-053	SPATA6	mRNA_gene_symbol
+PF4C-FINAL-053	STK17A	mRNA_gene_symbol
+PF4C-FINAL-053	TMC6	mRNA_gene_symbol
+PF4C-FINAL-053	TNFAIP6	mRNA_gene_symbol
+PF4C-FINAL-053	TPBG	mRNA_gene_symbol
+PF4C-FINAL-053	VRK3	mRNA_gene_symbol
+PF4C-FINAL-053	ZNF492	mRNA_gene_symbol
+PF4C-FINAL-053	ZNF576	mRNA_gene_symbol
+PF4C-FINAL-053	ZNF593	mRNA_gene_symbol
+PF4C-FINAL-054	ARNTL	mRNA_gene_symbol
+PF4C-FINAL-054	BRF2	mRNA_gene_symbol
+PF4C-FINAL-054	CHD3	mRNA_gene_symbol
+PF4C-FINAL-054	FOXO4	mRNA_gene_symbol
+PF4C-FINAL-054	GTF2A1	mRNA_gene_symbol
+PF4C-FINAL-054	LHX6	mRNA_gene_symbol
+PF4C-FINAL-054	LZTS1	mRNA_gene_symbol
+PF4C-FINAL-054	MEOX2	mRNA_gene_symbol
+PF4C-FINAL-054	MNX1	mRNA_gene_symbol
+PF4C-FINAL-054	NPAS3	mRNA_gene_symbol
+PF4C-FINAL-054	PDLIM1	mRNA_gene_symbol
+PF4C-FINAL-054	PTPRK	mRNA_gene_symbol
+PF4C-FINAL-054	RORA	mRNA_gene_symbol
+PF4C-FINAL-054	RPS6KA5	mRNA_gene_symbol
+PF4C-FINAL-054	ZNF492	mRNA_gene_symbol
+PF4C-FINAL-054	ZNF576	mRNA_gene_symbol
+PF4C-FINAL-054	ZNF593	mRNA_gene_symbol
+PF4C-FINAL-055	ALCAM	mRNA_gene_symbol
+PF4C-FINAL-055	AMIGO2	mRNA_gene_symbol
+PF4C-FINAL-055	LAMB4	mRNA_gene_symbol
+PF4C-FINAL-055	PCDHGC3	mRNA_gene_symbol
+PF4C-FINAL-055	PTPRK	mRNA_gene_symbol
+PF4C-FINAL-055	SIGLEC9	mRNA_gene_symbol
+PF4C-FINAL-055	TNFAIP6	mRNA_gene_symbol
+PF4C-FINAL-055	TPBG	mRNA_gene_symbol
+PF4C-FINAL-056	ALCAM	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-056	CST4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-056	KCNF1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-056	LHX6	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-056	SPATA6	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-057	CD40	gene_expression
+PF4C-FINAL-057	CD40LG	gene_expression
+PF4C-FINAL-057	NGFR	gene_expression
+PF4C-FINAL-057	TNFRSF10A	gene_expression
+PF4C-FINAL-057	TNFRSF10B	gene_expression
+PF4C-FINAL-057	TNFRSF11A	gene_expression
+PF4C-FINAL-057	TNFRSF11B	gene_expression
+PF4C-FINAL-057	TNFRSF12A	gene_expression
+PF4C-FINAL-057	TNFRSF14	gene_expression
+PF4C-FINAL-057	TNFRSF19	gene_expression
+PF4C-FINAL-057	TNFRSF1A	gene_expression
+PF4C-FINAL-057	TNFSF13	gene_expression
+PF4C-FINAL-057	TNFSF14	gene_expression
+PF4C-FINAL-057	TNFSF4	gene_expression
+PF4C-FINAL-058	CD38	gene_expression
+PF4C-FINAL-058	NADK	gene_expression
+PF4C-FINAL-058	NAPRT	gene_expression
+PF4C-FINAL-058	NMNAT3	gene_expression
+PF4C-FINAL-058	PARP6	gene_expression
+PF4C-FINAL-058	PARP9	gene_expression
+PF4C-FINAL-060	BANK1	gene_expression
+PF4C-FINAL-060	CCL2	gene_expression
+PF4C-FINAL-060	CD79B	gene_expression
+PF4C-FINAL-060	CKAP4	gene_expression
+PF4C-FINAL-060	CXCL1	gene_expression
+PF4C-FINAL-060	CXCL6	gene_expression
+PF4C-FINAL-060	DRAM1	gene_expression
+PF4C-FINAL-060	DUSP5	gene_expression
+PF4C-FINAL-060	LITAF	gene_expression
+PF4C-FINAL-060	MTHFD2	gene_expression
+PF4C-FINAL-060	OGFR	gene_expression
+PF4C-FINAL-060	SPON2	gene_expression
+PF4C-FINAL-061	GYS1	gene_expression
+PF4C-FINAL-061	LRPPRC	gene_expression
+PF4C-FINAL-061	RPN1	gene_expression
+PF4C-FINAL-062	AKAP6	mRNA_gene_symbol
+PF4C-FINAL-062	CAPG	mRNA_gene_symbol
+PF4C-FINAL-062	CHN1	mRNA_gene_symbol
+PF4C-FINAL-062	DAB2	mRNA_gene_symbol
+PF4C-FINAL-062	GPRASP1	mRNA_gene_symbol
+PF4C-FINAL-062	LSAMP	mRNA_gene_symbol
+PF4C-FINAL-062	NDN	mRNA_gene_symbol
+PF4C-FINAL-062	NNAT	mRNA_gene_symbol
+PF4C-FINAL-062	PPIC	mRNA_gene_symbol
+PF4C-FINAL-063	MUL1	gene_expression
+PF4C-FINAL-063	NPC1	gene_expression
+PF4C-FINAL-063	TRIM13	gene_expression
+PF4C-FINAL-065	ACADS	gene_expression
+PF4C-FINAL-065	ADSL	gene_expression
+PF4C-FINAL-065	BMP2	gene_expression
+PF4C-FINAL-065	ELANE	gene_expression
+PF4C-FINAL-065	MYD88	gene_expression
+PF4C-FINAL-065	SLC9A1	gene_expression
+PF4C-FINAL-065	SOAT2	gene_expression
+PF4C-FINAL-066	ANXA2	mRNA_gene_symbol
+PF4C-FINAL-066	ANXA5	mRNA_gene_symbol
+PF4C-FINAL-066	GPX8	mRNA_gene_symbol
+PF4C-FINAL-066	TM7SF2	mRNA_gene_symbol
+PF4C-FINAL-066	TNFRSF12A	mRNA_gene_symbol
+PF4C-FINAL-067	ALB	mRNA_gene_symbol
+PF4C-FINAL-067	AOC1	mRNA_gene_symbol
+PF4C-FINAL-067	AQP1	mRNA_gene_symbol
+PF4C-FINAL-067	CDK1	mRNA_gene_symbol
+PF4C-FINAL-067	HEPHL1	mRNA_gene_symbol
+PF4C-FINAL-067	IL1A	mRNA_gene_symbol
+PF4C-FINAL-067	LCAT	mRNA_gene_symbol
+PF4C-FINAL-067	LOX	mRNA_gene_symbol
+PF4C-FINAL-067	LOXL2	mRNA_gene_symbol
+PF4C-FINAL-067	LOXL3	mRNA_gene_symbol
+PF4C-FINAL-067	MOXD1	mRNA_gene_symbol
+PF4C-FINAL-067	MT-CO2	mRNA_gene_symbol
+PF4C-FINAL-067	MT1G	mRNA_gene_symbol
+PF4C-FINAL-067	MT1M	mRNA_gene_symbol
+PF4C-FINAL-067	MT1X	mRNA_gene_symbol
+PF4C-FINAL-067	SNCG	mRNA_gene_symbol
+PF4C-FINAL-067	STEAP3	mRNA_gene_symbol
+PF4C-FINAL-067	XAF1	mRNA_gene_symbol
+PF4C-FINAL-067	XIAP	mRNA_gene_symbol
+PF4C-FINAL-068	IFIT5	gene_expression
+PF4C-FINAL-068	ISG20	gene_expression
+PF4C-FINAL-068	PARP12	gene_expression
+PF4C-FINAL-069	PLK1	gene_expression
+PF4C-FINAL-069	PLK2	gene_expression
+PF4C-FINAL-069	PLK3	gene_expression
+PF4C-FINAL-069	PLK4	gene_expression
+PF4C-FINAL-069	PLK5	gene_expression
+PF4C-FINAL-070	AKR1C3	gene_expression
+PF4C-FINAL-070	CBLN1	gene_expression
+PF4C-FINAL-070	CLSTN2	gene_expression
+PF4C-FINAL-070	CYP27C1	gene_expression
+PF4C-FINAL-070	DDIT4	gene_expression
+PF4C-FINAL-070	DLK1	gene_expression
+PF4C-FINAL-070	EN1	gene_expression
+PF4C-FINAL-070	FZD9	gene_expression
+PF4C-FINAL-070	GBE1	gene_expression
+PF4C-FINAL-070	GIMAP2	gene_expression
+PF4C-FINAL-070	GNPDA2	gene_expression
+PF4C-FINAL-070	HSPA6	gene_expression
+PF4C-FINAL-070	LXN	gene_expression
+PF4C-FINAL-070	P4HA1	gene_expression
+PF4C-FINAL-070	PLCXD2	gene_expression
+PF4C-FINAL-070	RBM3	gene_expression
+PF4C-FINAL-070	S100A12	gene_expression
+PF4C-FINAL-070	TMEM130	gene_expression
+PF4C-FINAL-070	TMEM255A	gene_expression
+PF4C-FINAL-071	CASP4	gene_expression
+PF4C-FINAL-071	CASP5	gene_expression
+PF4C-FINAL-071	CASP8	gene_expression
+PF4C-FINAL-071	GSDMD	gene_expression
+PF4C-FINAL-071	NLRC4	gene_expression
+PF4C-FINAL-073	AURKA	gene_expression
+PF4C-FINAL-073	EIF2S1	gene_expression
+PF4C-FINAL-073	HSPA5	gene_expression
+PF4C-FINAL-073	ISCU	gene_expression
+PF4C-FINAL-073	MTOR	gene_expression
+PF4C-FINAL-073	NFS1	gene_expression
+PF4C-FINAL-073	RPL8	gene_expression
+PF4C-FINAL-074	AKR1C3	gene_expression
+PF4C-FINAL-074	ALOX12	gene_expression
+PF4C-FINAL-074	CD44	gene_expression
+PF4C-FINAL-074	CRYAB	gene_expression
+PF4C-FINAL-074	FADS2	gene_expression
+PF4C-FINAL-074	FANCD2	gene_expression
+PF4C-FINAL-074	HSBP1	gene_expression
+PF4C-FINAL-074	MT1G	gene_expression
+PF4C-FINAL-074	NFE2L2	gene_expression
+PF4C-FINAL-074	SAT1	gene_expression
+PF4C-FINAL-074	ZEB1	gene_expression
+PF4C-FINAL-078	ABL1	mRNA_gene_symbol
+PF4C-FINAL-078	CCNA1	mRNA_gene_symbol
+PF4C-FINAL-078	CCND1	mRNA_gene_symbol
+PF4C-FINAL-078	CCNE1	mRNA_gene_symbol
+PF4C-FINAL-078	CDC6	mRNA_gene_symbol
+PF4C-FINAL-078	CDK2	mRNA_gene_symbol
+PF4C-FINAL-078	CDKN1C	mRNA_gene_symbol
+PF4C-FINAL-078	CDKN2A	mRNA_gene_symbol
+PF4C-FINAL-078	DKK1	mRNA_gene_symbol
+PF4C-FINAL-078	FZD3	mRNA_gene_symbol
+PF4C-FINAL-078	FZD7	mRNA_gene_symbol
+PF4C-FINAL-078	GADD45G	mRNA_gene_symbol
+PF4C-FINAL-078	GHR	mRNA_gene_symbol
+PF4C-FINAL-078	GSTT1	mRNA_gene_symbol
+PF4C-FINAL-078	HSPA1B	mRNA_gene_symbol
+PF4C-FINAL-078	ID4	mRNA_gene_symbol
+PF4C-FINAL-078	IGFBP3	mRNA_gene_symbol
+PF4C-FINAL-078	INHBB	mRNA_gene_symbol
+PF4C-FINAL-078	IRS2	mRNA_gene_symbol
+PF4C-FINAL-078	LIFR	mRNA_gene_symbol
+PF4C-FINAL-078	PDGFRA	mRNA_gene_symbol
+PF4C-FINAL-078	PIK3CA	mRNA_gene_symbol
+PF4C-FINAL-078	PLA2G5	mRNA_gene_symbol
+PF4C-FINAL-078	POLE3	mRNA_gene_symbol
+PF4C-FINAL-078	PPARGC1A	mRNA_gene_symbol
+PF4C-FINAL-078	PRKAR2B	mRNA_gene_symbol
+PF4C-FINAL-078	PYGB	mRNA_gene_symbol
+PF4C-FINAL-078	SFRP1	mRNA_gene_symbol
+PF4C-FINAL-078	SFRP4	mRNA_gene_symbol
+PF4C-FINAL-078	SH2B2	mRNA_gene_symbol
+PF4C-FINAL-078	STAG3L4	mRNA_gene_symbol
+PF4C-FINAL-078	STMN1	mRNA_gene_symbol
+PF4C-FINAL-078	THBS2	mRNA_gene_symbol
+PF4C-FINAL-078	THBS3	mRNA_gene_symbol
+PF4C-FINAL-078	VEGFA	mRNA_gene_symbol
+PF4C-FINAL-079	AGT	mRNA_gene_symbol
+PF4C-FINAL-079	CALCRL	mRNA_gene_symbol
+PF4C-FINAL-079	CCL2	mRNA_gene_symbol
+PF4C-FINAL-079	CHI3L1	mRNA_gene_symbol
+PF4C-FINAL-079	CPE	mRNA_gene_symbol
+PF4C-FINAL-079	EGFR	mRNA_gene_symbol
+PF4C-FINAL-079	IGFBPL1	mRNA_gene_symbol
+PF4C-FINAL-079	MBP	mRNA_gene_symbol
+PF4C-FINAL-079	MCF2	mRNA_gene_symbol
+PF4C-FINAL-079	OLFM1	mRNA_gene_symbol
+PF4C-FINAL-079	PACSIN1	mRNA_gene_symbol
+PF4C-FINAL-079	SNCA	mRNA_gene_symbol
+PF4C-FINAL-079	SOD2	mRNA_gene_symbol
+PF4C-FINAL-079	TOP2A	mRNA_gene_symbol
+PF4C-FINAL-080	BIRC3	mRNA_gene_symbol
+PF4C-FINAL-080	BIRC5	mRNA_gene_symbol
+PF4C-FINAL-080	CASP4	mRNA_gene_symbol
+PF4C-FINAL-080	CASP9	mRNA_gene_symbol
+PF4C-FINAL-080	GSDMD	mRNA_gene_symbol
+PF4C-FINAL-080	MYD88	mRNA_gene_symbol
+PF4C-FINAL-080	TNFRSF1A	mRNA_gene_symbol
+PF4C-FINAL-081	C3AR1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	CLCF1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	EDNRB	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	HTR7	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	IGF2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	KCNN4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	NTRK1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	OSMR	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	RETN	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-081	SLC18A3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	CHI3L2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	CLEC2B	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	CLEC5A	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	CLEC7A	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	COLEC12	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	FMOD	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	GPC4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	LGALS1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	LGALS3BP	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	LY75	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	MRC2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	RENBP	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	SLC2A10	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-082	SRGN	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-085	ANXA1	gene_expression
+PF4C-FINAL-085	BUB1B	gene_expression
+PF4C-FINAL-085	IKBKB	gene_expression
+PF4C-FINAL-085	PDIA4	gene_expression
+PF4C-FINAL-085	RCC2	gene_expression
+PF4C-FINAL-085	RPL4	gene_expression
+PF4C-FINAL-085	TXNIP	gene_expression
+PF4C-FINAL-085	VIM	gene_expression
+PF4C-FINAL-086	ADCYAP1R1	gene_expression
+PF4C-FINAL-086	ANGPTL2	gene_expression
+PF4C-FINAL-086	APOBEC3C	gene_expression
+PF4C-FINAL-086	BIRC5	gene_expression
+PF4C-FINAL-086	BMP1	gene_expression
+PF4C-FINAL-086	BMP2	gene_expression
+PF4C-FINAL-086	CDK4	gene_expression
+PF4C-FINAL-086	JAG2	gene_expression
+PF4C-FINAL-086	MET	gene_expression
+PF4C-FINAL-086	NRG3	gene_expression
+PF4C-FINAL-086	S100A16	gene_expression
+PF4C-FINAL-086	SSTR2	gene_expression
+PF4C-FINAL-086	TNFRSF10B	gene_expression
+PF4C-FINAL-086	TNFRSF19	gene_expression
+PF4C-FINAL-086	VGF	gene_expression
+PF4C-FINAL-087	ATP6AP1	gene_expression
+PF4C-FINAL-087	ATP6AP2	gene_expression
+PF4C-FINAL-087	ATP6V1C2	gene_expression
+PF4C-FINAL-087	ATP6V1G2	gene_expression
+PF4C-FINAL-087	TCIRG1	gene_expression
+PF4C-FINAL-092	SOCS3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-092	TEK	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-092	VEGFA	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-093	TRIM17	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-093	TRIM21	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-093	TRIM28	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-093	TRIM34	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-093	TRIM47	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-093	TRIM5	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-094	BTRC	gene_expression
+PF4C-FINAL-094	CUL1	gene_expression
+PF4C-FINAL-094	GRN	gene_expression
+PF4C-FINAL-094	SIAH2	gene_expression
+PF4C-FINAL-094	UBB	gene_expression
+PF4C-FINAL-094	UBE2D2	gene_expression
+PF4C-FINAL-094	UBE2D3	gene_expression
+PF4C-FINAL-094	UBE2G2	gene_expression
+PF4C-FINAL-094	UBE2S	gene_expression
+PF4C-FINAL-094	UBE2Z	gene_expression
+PF4C-FINAL-094	USP4	gene_expression
+PF4C-FINAL-094	USP7	gene_expression
+PF4C-FINAL-095	CD274	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-095	CD40	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-095	HAVCR2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-095	NCR3LG1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-095	TNFSF4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-096	BRCA1	gene_expression
+PF4C-FINAL-096	DZIP1L	gene_expression
+PF4C-FINAL-096	HEXIM2	gene_expression
+PF4C-FINAL-096	LARP4B	gene_expression
+PF4C-FINAL-096	LSM11	gene_expression
+PF4C-FINAL-096	PABPC1L2B	gene_expression
+PF4C-FINAL-096	SARNP	gene_expression
+PF4C-FINAL-096	SMN1	gene_expression
+PF4C-FINAL-096	THOC3	gene_expression
+PF4C-FINAL-096	ZC3H12B	gene_expression
+PF4C-FINAL-096	ZC3H8	gene_expression
+PF4C-FINAL-097	CRYL1	gene_expression
+PF4C-FINAL-097	DCXR	gene_expression
+PF4C-FINAL-097	SORD	gene_expression
+PF4C-FINAL-097	UGT8	gene_expression
+PF4C-FINAL-097	XYLB	gene_expression
+PF4C-FINAL-099	C21ORF62	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-099	KCNIP2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-099	MYBL2	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-099	TUBA1C	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	CASP4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	CCDC109B	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	CHI3L1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	EMP3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	MSN	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	MYL12A	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	PLAUR	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	S100A4	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-100	TIMP1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-102	ADORA1	mRNA_gene_symbol
+PF4C-FINAL-102	ARNTL	mRNA_gene_symbol
+PF4C-FINAL-102	ATR	mRNA_gene_symbol
+PF4C-FINAL-102	BHLHE40	mRNA_gene_symbol
+PF4C-FINAL-102	CHEK1	mRNA_gene_symbol
+PF4C-FINAL-102	CHRNB2	mRNA_gene_symbol
+PF4C-FINAL-102	CRH	mRNA_gene_symbol
+PF4C-FINAL-102	CRY1	mRNA_gene_symbol
+PF4C-FINAL-102	CRY2	mRNA_gene_symbol
+PF4C-FINAL-102	CSNK1E	mRNA_gene_symbol
+PF4C-FINAL-102	GHRHR	mRNA_gene_symbol
+PF4C-FINAL-102	NPAS2	mRNA_gene_symbol
+PF4C-FINAL-102	PER2	mRNA_gene_symbol
+PF4C-FINAL-102	PER3	mRNA_gene_symbol
+PF4C-FINAL-102	PTGDS	mRNA_gene_symbol
+PF4C-FINAL-102	TIMELESS	mRNA_gene_symbol
+PF4C-FINAL-103	ADRB3	gene_expression
+PF4C-FINAL-103	CRCP	gene_expression
+PF4C-FINAL-103	F2RL2	gene_expression
+PF4C-FINAL-103	FZD1	gene_expression
+PF4C-FINAL-103	GLP1R	gene_expression
+PF4C-FINAL-103	GPBAR1	gene_expression
+PF4C-FINAL-103	GPCR68	gene_expression
+PF4C-FINAL-103	GPCR82	gene_expression
+PF4C-FINAL-103	HTR7	gene_expression
+PF4C-FINAL-103	TPRA1	gene_expression
+PF4C-FINAL-105	RNF7	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-105	SOCS1	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-105	SOCS3	gene_or_feature_as_locked_in_phase4d
+PF4C-FINAL-105	TCEB1	gene_or_feature_as_locked_in_phase4d
+LEGACY-V001-M01	AMPH	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V001-M01	CTSB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V001-M01	FN1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V001-M01	GALNT6	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V001-M01	PLAT	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V001-M01	SCG5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V001-M01	TIMP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V003-M01	CTSB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V003-M01	KLF10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V003-M01	PLAUR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V003-M01	PTPRN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V003-M01	RARRES2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V003-M01	TIMP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	AHR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	BDKRB1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	CD14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	CLEC5A	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	DCBLD2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	EREG	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	LTA	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	LY6E	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V004-M01	SLC4A4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V005-M01	COL22A1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V005-M01	CRYGN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V005-M01	GZMB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V005-M01	MSTN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V005-M01	OSMR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V006-M01	ADAMTS14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V006-M01	BDKRB2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V006-M01	FOSL1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V006-M01	PLAUR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V006-M01	TIMP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V007-M01	COL5A1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V007-M01	COL6A1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V007-M01	FN1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V007-M01	ITGA5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V007-M01	MMP14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V009-M01	MAPK1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V009-M01	P2RX1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V009-M01	PARVB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V009-M01	STAT3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V010-M01	CP	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V010-M01	IGFBP2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V010-M01	LOX	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V011-M01	GJB2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V011-M01	KCNH6	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V011-M01	KCNN4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V012-M01	CA14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V012-M01	COL22A1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V012-M01	FERMT1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V012-M01	IGFBP6	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V012-M01	SOD3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V012-M01	TIMP4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V012-M01	UPP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	C21ORF62	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	CCL2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	CHI3L1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	CHL1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	DCX	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	EMP3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	FABP5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	GPR37	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	IGFBP3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	IL8	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	LGALS3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	PDPN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	POSTN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V013-M01	TAGLN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	C1R	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	CHRM3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	CLSTN2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	GPRASP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	HPCAL4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	ICAM5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	IGFBP2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	INA	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	LHX6	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	NELL1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	NMB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	PCSK1N	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	PGBD5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	SEZ6L2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	SNAP91	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V016-M01	UCHL1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V017-M01	BAK1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V017-M01	CDKN1B	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V017-M01	CHMP6	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V017-M01	EGFR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V017-M01	GAPDH	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V017-M01	NDUFB9	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V017-M01	SUPT3H	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V018-M01	ABCC3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V018-M01	MDK	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V018-M01	NMB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V018-M01	PTPRN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V018-M01	RALYL	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V019-M01	C5AR1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V019-M01	IL10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V019-M01	PPP4C	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V020-M01	AACS	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V020-M01	FKBP9	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V020-M01	G6PC3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V020-M01	LOXL1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V020-M01	STEAP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V020-M01	STEAP2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	AKR1B10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	COMT	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	COX10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	EPHX1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	GBE1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	GLUD1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	GLUD2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	GLUL	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	GPX2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	GSTM3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	LPCAT3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	MDH1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	MTHFD2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	OCRL	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	PAFAH1B1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	PDE8B	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	PFKL	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V021-M01	RRM2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	ACAA2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	ACADS	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	ACOX2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	ALOX5AP	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	B3GALNT1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	B4GALT7	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	CNGA3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	CYB561	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	EXTL3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	FAH	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	HEXA	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	MAN1B1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	NNMT	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	NPC2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	NQO2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	OAS1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	PIGB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	PYGL	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	SLC12A7	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V022-M01	UPP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V024-M01	APOBR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V024-M01	CD79B	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V024-M01	IMPDH1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V024-M01	MAP2K3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V024-M01	MPZL3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V024-M01	SLC16A3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	ANPEP	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	CCDC37	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	CDH6	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	DPP4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	FANCA	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	GPNMB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	NETO2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	PRRG1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	PXDN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	SCN3A	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	SEMA6B	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V025-M01	TMEM26	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V026-M01	BPIFB2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V026-M01	HOXA13	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V026-M01	LRRC10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V026-M01	NELL1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V026-M01	SDR16C5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V026-M01	XIRP2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V027-M01	LHX2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V027-M01	MEOX2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V027-M01	SNAI2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V027-M01	ZNF22	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	ADI1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	ATP6V1E1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	CALCOCO2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	ECHS1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	EIF3D	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	ERCC1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	GPNMB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	MTDH	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	NEDD9	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	PCNA	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	PLOD1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	RCAN2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V028-M01	VTI1B	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V029-M01	ITGA3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V029-M01	MAP1LC3A	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-V029-M01	NRG1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E001-M01	COL5A1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E001-M01	MFGE8	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E001-M01	MSH6	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E001-M01	NF1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E001-M01	PGPEP1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E001-M01	PIK3CA	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E007-M01	BMP2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E007-M01	PTX3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E007-M01	TNFSF9	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E011-M01	IGFBP2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E011-M01	NOD2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E011-M01	TCF3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E011-M01	TYRO3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E012-M01	COL1A2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E012-M01	COL3A1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E012-M01	COL5A1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E012-M01	ITGA5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E012-M01	LAMC1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E012-M01	MET	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E014-M01	KCNB1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E014-M01	KCNJ10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E014-M01	KCNN4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	C9ORF64	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	GNS	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	GZMB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	MXRA8	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	OSMR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	PDIA4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	PDLIM4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	SLC16A13	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-E016-M01	STC1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S001-M01	HOXC10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S001-M01	OSMR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S001-M01	SCARA3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S001-M01	SLC39A10	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	ALOX5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	ATP5MC3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	CHAC1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	CRYAB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	MT1G	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	NCOA4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	STEAP3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S003-M01	ZEB1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S005-M01	G6PC3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S005-M01	IGFBP2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S005-M01	PTPRN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S005-M01	RGS14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S005-M01	TIMP4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	CCL2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	CTSD	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	DRAM1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	HSPA5	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	LENG9	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	MSTN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	MTMR14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	P4HB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	PHYHIP	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	RRAGB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	S100A8	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	TCIRG1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	UBQLN4	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S006-M01	ZKSCAN3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S007-M01	BMPR1A	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S007-M01	CTSB	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S007-M01	CXCL2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S007-M01	NFKBIZ	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S007-M01	OSMR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S007-M01	SEMA4F	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S007-M01	TNFSF14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S009-M01	ARPC1B	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S009-M01	FCGR2B	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S009-M01	NCF2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S009-M01	PLAUR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S009-M01	S100A11	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	AQP9	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	AREG	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	CLCF1	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	GRN	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	IGLV6-57	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	PLAUR	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	PTX3	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	SDC2	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	TNFRSF14	PROTEIN_CODING_GENE_EXPRESSION
+LEGACY-S012-M01	VGF	PROTEIN_CODING_GENE_EXPRESSION

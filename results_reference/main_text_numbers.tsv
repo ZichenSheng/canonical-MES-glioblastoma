@@ -1,0 +1,79 @@
+result_id	results_section	figure_panel	reported_value	reported_n	statistical_unit
+R1-UNIVERSE	R1	1a;6a	201;197	201 representations;197 publications	representation/publication
+R1-OVERLAP	R1	1b	96.4%;median Jaccard 0	20100 pairs	representation pair
+R1-N-CGGA325	R1	1a	73	73	patient
+R1-N-CGGA693	R1	1a	108	108	patient
+R1-CONCORDANCE	R1	1b	0.731;P<0.001	1000 matched panels;20100 pairs	panel
+R1-ECO-CGGA325	R1	1c	0.939	201 representations	panel
+R1-ECO-CGGA693	R1	1c	0.957	201 representations	panel
+R1-PC1	R1	1c	58.0%;P=1.00	1000 panels	panel
+R1-REMOVED	R1	1c	0.691 versus 0.731	201 representations	panel
+R1-LOCALIZATION	R1	1d	130;35;16;20	59 paired patients;7 studies	patient
+R1-SPATIAL	R1	1e	200 representations;17 patients	17 patients	patient
+R1-TRANSFER	R1	1f	0.175;CI 0.104–0.276	12 patients;57 regions	patient
+R1-COMPOSITION	R1	1f	-0.019	12 patients;57 regions	patient
+R1-CARE	R1	1f	0.090	56 patients	patient
+R2-ASSOC	R2	1g	195/201;median partial R2=0.404	10 tumours;122 wells	tumour
+R2-CORR	R2	1g	0.804	201 representations	representation
+R2-ALL5	R2	2a	0.350;2/201 >=0.60	10 tumours	tumour
+R2-CORE3	R2	2a	0.474	10 tumours	tumour
+R2-PAN_MVP	R2	2a	0.654	10 tumours	tumour
+R2-MATCH	R2	2b;2c	descriptive	within tumour	tumour
+R2-GEOMX	R2	2d	0.602;chance 0.50	413 AOIs;26 patients;198 representations	patient
+R2-SOURCE-MATCH	R2	2e	descriptive	26 patients	patient
+R2-SOURCE-CHANGE	R2	2f	descriptive	representation-patient changes	patient
+R3-MATCH	R3	3a	descriptive	matched observations	patient
+R3-DIM-CARE	R3	3b	7–16	56	patient
+R3-OFF-CARE-K2	R3	3b	0.761369297659027	56	patient
+R3-OFF-CARE-UPPER	R3	3b	0.38287436971914457	56	patient
+R3-DIM-GLASS	R3	3b	3–12	111	patient
+R3-OFF-GLASS-K2	R3	3b	0.5901031458183693	111	patient
+R3-OFF-GLASS-UPPER	R3	3b	0.32072047999642456	111	patient
+R3-DIM-GSE174554	R3	3b	2–11	20	patient
+R3-OFF-GSE174554-K2	R3	3b	0.7303851226616707	20	patient
+R3-OFF-GSE174554-UPPER	R3	3b	0.5064151789333295	20	patient
+R3-RESIDUAL	R3	3c	10.622	56	patient
+R3-NULL	R3	3c	3.680	56	patient
+R3-EXCEED	R3	3c	54/56	56	patient
+R3-ENERGY	R3	3d;3e	0.092	46	patient
+R3-COSINE	R3	3d;3e	0.915	46	patient
+R3-SENSITIVITY	R3	3d;3e	9.18%	53	patient
+R3-MODES	R3	3f	0/10	10 modes	patient
+R3-GEOMETRY-CARE	R3	3g	3.329;76.6;1.012	paired patients	patient
+R3-GEOMETRY-GLASS	R3	3g	3.233;32.3;1.349	paired patients	patient
+R3-GEOMETRY-GSE174554	R3	3g	4.784;85.1;0.531	paired patients	patient
+R4-UNITS	R4	4a	57 regions;12 donors	12 donors	donor
+R4-NULL	R4	4b	alpha=0.05	800 DS03;1220 Ivy per q	null realization
+R4-SUPPORT	R4	4c;6e	7/8;Pmin=0.0625	8 prespecified identities	identity
+R4-RECOVERY	R4	4c	3 x 20/20;4 x 0/20	7 reachable identities	positive realization
+R4-CAPACITY	R4	4d	E=10;K=7	B4-007;B4-029	identity
+R4-HISTORICAL	R4	4e;4f	140 naive-only;114 blocked-only	640 historical worlds	positive realization
+R4-FORMAL	R4	4f	51;56;4;29	140 adjudicable worlds	positive realization
+R4-EXAMPLE	R4	4g	B4-007 0.172 to 0.002;FINAL-079 0.025 to 0.123	2 representative worlds	positive realization
+R5-2-PROVENANCE	R5	5a	NO — coefficient signs and weights are discarded	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-2-BULK	R5	5b	0.3037455263482662;0.6979050558747034	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-2-LOCALIZATION	R5	5c	malignant-dominant	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-2-SPATIAL	R5	5d	matrix-rich: 16/17 patients positive; myeloid-rich: 15/17 patients positive; vascular-rich: 15/17 patients positive	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-2-RECOVERY	R5	5f	20/20	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-2-REFERENCE	R5	5g	0/20;20/20	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-3-PROVENANCE	R5	5a	NO — coefficient signs and weights are discarded	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-3-BULK	R5	5b	0.4702579291620388;0.702115903093353	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-3-LOCALIZATION	R5	5c	malignant-dominant	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-3-SPATIAL	R5	5d	matrix-rich: 15/17 patients positive; myeloid-rich: 17/17 patients positive; vascular-rich: 15/17 patients positive	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-3-RECOVERY	R5	5f	0/20	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-3-REFERENCE	R5	5g	0/20;0/20	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-4-PROVENANCE	R5	5a	NO — coefficient signs and weights are discarded	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-4-BULK	R5	5b	-0.1206651857336789;0.4425200301046995	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-4-LOCALIZATION	R5	5c	malignant-dominant	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-4-SPATIAL	R5	5d	matrix-rich: 16/17 patients positive; myeloid-rich: 17/17 patients positive; vascular-rich: 15/17 patients positive	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-4-RECOVERY	R5	5f	0/20	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-4-REFERENCE	R5	5g	20/20;0/20	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-EVALUABILITY	R5	5e	unevaluable	3 representations	claim
+R6-RESOURCE	R6	6a	201;1729	201 representations	gene membership
+R6-RECORDS	R6	6b;6c;6d	4 distinct B4-007 claims	4 claims	claim
+R6-CRC-DESIGN	R6	6f	11 genes;85 segments;9 patients	9 patient pairs	patient
+R6-CRC-EXACT	R6	6f	T=1.596;16/512;P=0.03125;Pmin=0.00195	9 patient pairs	patient
+R6-CRC-REPRO	R6	6f	4 intermediate vectors mismatch	85 segment scores	numerical object
+R5-2-MEDIAN-P	R5	5f	.003	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-3-MEDIAN-P	R5	5f	.107	20 q100 realizations;7 single-cell studies	patient;positive realization
+R5-4-MEDIAN-P	R5	5f	.240	20 q100 realizations;7 single-cell studies	patient;positive realization

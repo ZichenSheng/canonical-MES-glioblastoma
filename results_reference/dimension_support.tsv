@@ -1,0 +1,19 @@
+dataset_label	method	estimate	estimate_low	estimate_high
+CARE	parallel_analysis_95	7.0	7.0	7.0
+CARE	cv_two_step_1pct_saturation	13.0	13.0	13.0
+CARE	participation_ratio	7.293121755049412		
+CARE	entropy_effective_rank	15.893774153814729		
+CARE	bootstrap_stable_k_max_overlap_CI>=0.70	12.0		
+CARE	supported_range_union_prespecified_methods		7.0	16.0
+GLASS	parallel_analysis_95	5.0	5.0	5.0
+GLASS	cv_two_step_1pct_saturation	12.0	12.0	12.0
+GLASS	participation_ratio	2.8572987703006936		
+GLASS	entropy_effective_rank	7.814807448868806		
+GLASS	bootstrap_stable_k_max_overlap_CI>=0.70	20.0		
+GLASS	supported_range_union_prespecified_methods		3.0	12.0
+GSE174554	parallel_analysis_95	2.0	2.0	2.0
+GSE174554	cv_two_step_1pct_saturation	11.0	11.0	11.0
+GSE174554	participation_ratio	2.794405726372194		
+GSE174554	entropy_effective_rank	5.5649577869764215		
+GSE174554	bootstrap_stable_k_max_overlap_CI>=0.70	1.0		
+GSE174554	supported_range_union_prespecified_methods		2.0	11.0

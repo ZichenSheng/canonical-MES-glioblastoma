@@ -1,0 +1,5 @@
+blocker_id	status	requirement	evidence	remaining_action
+B01	CLOSED	Current manuscript and executed input scope agree	R1 Methods says malignant regional measurements; original prepare_gbmspace selects ALL_AUTHOR_ANNOTATED for both scores and ecological endpoints.	No scientific blocker. User authorized executed scope as authority;recorded in MANUSCRIPT_DISCREPANCY_LOG.tsv.
+B02	CLOSED	All load-bearing claims have certified minimal coverage	78 current claims mapped; eight modules have scoped PASS certification.	Aggregate-only and source-dependent limits are explicit; untraced generators remain identified.
+B03	CLOSED	Public-source preparation is executable and accession-resolved	18 current resource/subset entries; public processed CRC04 input certified.	Other prepared-input analyses remain explicitly Tier 3; no full-source reconstruction claim.
+B04	CLOSED	Publication safety preflight	Working tree, staged candidate and generated source archive passed the publication data/privacy scan.	Final content is rescanned before publication; GitHub release-event Zenodo webhook is active. Version DOI is verified after archival.

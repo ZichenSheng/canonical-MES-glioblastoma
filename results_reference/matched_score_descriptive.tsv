@@ -1,0 +1,5 @@
+branch	median_ratio	candidate_pool_description	status
+ALL5	0.1442926531707926	within-tumor eligible cross-anatomy candidates; sample_n=122; valid pair n=599	DEPRECATED_AS_INFERENTIAL_EVIDENCE
+CORE3	0.2830184446599609	within-tumor eligible cross-anatomy candidates; sample_n=79; valid pair n=204	DEPRECATED_AS_INFERENTIAL_EVIDENCE
+PAN_MVP	0.5496881538467244	within-tumor eligible cross-anatomy candidates; sample_n=49; valid pair n=57	DEPRECATED_AS_INFERENTIAL_EVIDENCE
+GEOMX	0.03706543434855	different-patient IBA1 AOIs for each SOX2 AOI; 49 SOX2 observations/model	DEPRECATED_AS_INFERENTIAL_EVIDENCE

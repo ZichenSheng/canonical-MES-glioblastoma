@@ -1,0 +1,5 @@
+signature_id	dataset	context	biological_claim	qualification_state	endpoint_compatibility	stronger_claim_not_licensed
+PF4C-B4-007	CGGA325	Bulk tumour transcriptome	Membership representation associated with MES-related programme	SUPPORTED_WITHIN_DOMAIN	NOT_APPLICABLE	Unique MES state, malignant-cell identity, causality, prognosis, clinical response
+PF4C-B4-007	DS03 GBM-Space	Frozen StageB1 ALT2 q100 positive worlds	Recover prespecified MES-malignant positive alternative at q100	SUPPORTED_WITHIN_DOMAIN	YES	Biological truth, absence of biology, unique malignant identity, original prognosis validity
+PF4C-B4-007	IvyGAP	Tissue/anatomical informativeness	Tissue/anatomical informativeness	SUPPORTED_WITHIN_DOMAIN	YES_TISSUE	Malignant-cell-specific identity; transfer of 61-object StageA recovery to this signature
+PF4C-B4-007	IvyGAP	Malignant-cell-specific MES state	Malignant-cell-specific MES state	NOT_EVALUABLE	NO	Malignant-cell-specific identity; transfer of 61-object StageA recovery to this signature

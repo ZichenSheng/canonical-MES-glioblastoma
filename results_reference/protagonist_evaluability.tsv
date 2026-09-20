@@ -1,0 +1,10 @@
+signature_id	dataset	claim_scope	genes_available	score_computable	endpoint_compatibility	detectability
+PF4C-B4-007	DS03	Malignant MES positive-alternative recovery	Frozen DS03 score	YES	YES	20/20 at q100
+PF4C-B4-007	Ivy	Malignant-cell-specific MES state	5/5	YES	NO	NOT_TESTED_FOR_THIS_SCOPE
+PF4C-B4-007	Ivy	Tissue/anatomical informativeness	5/5	YES	YES_TISSUE	NO_STAGEA_R4_RECOVERY_FOR_THIS_IDENTITY
+PF4C-B4-029	DS03	Malignant MES positive-alternative recovery	Frozen DS03 score	YES	YES	0/20 at q100
+PF4C-B4-029	Ivy	Malignant-cell-specific MES state	4/4	YES	NO	NOT_TESTED_FOR_THIS_SCOPE
+PF4C-B4-029	Ivy	Tissue/anatomical informativeness	4/4	YES	YES_TISSUE	NO_STAGEA_R4_RECOVERY_FOR_THIS_IDENTITY
+PF4C-FINAL-079	DS03	Malignant MES positive-alternative recovery	Frozen DS03 score	YES	YES	0/20 at q100
+PF4C-FINAL-079	Ivy	Malignant-cell-specific MES state	14/14	YES	NO	NOT_TESTED_FOR_THIS_SCOPE
+PF4C-FINAL-079	Ivy	Tissue/anatomical informativeness	14/14	YES	YES_TISSUE	NO_STAGEA_R4_RECOVERY_FOR_THIS_IDENTITY

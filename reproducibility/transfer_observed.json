@@ -1,0 +1,14 @@
+{
+  "domain": "FOUR_FROZEN_ECOLOGY_AXES",
+  "model_n": 200,
+  "patient_n": 12,
+  "median_CV_R2": 0.17525034112478088,
+  "patient_bootstrap_median_CV_R2": 0.17991247527279094,
+  "bootstrap_CI_low": 0.10376469497212315,
+  "bootstrap_CI_high": 0.2761763469795455,
+  "median_residual_fraction": 0.8247496588752191,
+  "residual_bootstrap_CI_low": 0.7238236530204545,
+  "residual_bootstrap_CI_high": 0.8962353050278768,
+  "bootstrap_n": 1000,
+  "bootstrap_valid_fraction": 1.0
+}

@@ -1,0 +1,63 @@
+{
+  "zero_overlap": 19370,
+  "pair_n": 20100,
+  "median_jaccard": 0.0,
+  "matched_p_structure": 0.000999000999000999,
+  "matched_p_CGGA693_variance": 1.0,
+  "localization": {
+    "malignant-dominant": 130,
+    "TME-dominant": 35,
+    "unstable": 20,
+    "mixed": 16
+  },
+  "ivy_rho": 0.8041288606472587,
+  "geomx_ba": 0.602040816327,
+  "stable_modes": 0,
+  "supported_dimensions": {
+    "CARE": [
+      7,
+      16
+    ],
+    "GLASS": [
+      3,
+      12
+    ],
+    "GSE174554": [
+      2,
+      11
+    ]
+  },
+  "null_calibration_rows": 10,
+  "historical_world_n": 640,
+  "historical_counts": [
+    140,
+    114,
+    4,
+    382
+  ],
+  "formal_q100_counts": [
+    51,
+    56,
+    4,
+    29
+  ],
+  "protagonists": {
+    "PF4C-B4-007": {
+      "blocked_median_p": 0.003,
+      "blocked_recovery": 20,
+      "naive_recovery": 0
+    },
+    "PF4C-B4-029": {
+      "blocked_median_p": 0.1065,
+      "blocked_recovery": 0,
+      "naive_recovery": 0
+    },
+    "PF4C-FINAL-079": {
+      "blocked_median_p": 0.24,
+      "blocked_recovery": 0,
+      "naive_recovery": 20
+    }
+  },
+  "crc04_intermediate_failures": 4,
+  "additional_current_claim_checks": "PASS: universe,cohorts,overlap-control,spatial,CARE,descriptive matching,reference examples,claim records"
+}

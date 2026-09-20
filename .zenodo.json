@@ -1,19 +1,26 @@
 {
-  "title": "Canonical MES programs in glioblastoma",
-  "description": "Analysis code accompanying the manuscript on the biological interpretation, patient-level realization, and ecological context of canonical mesenchymal programs in glioblastoma.",
+  "title": "Glioblastoma transcriptomic-signature manuscript reproducibility",
+  "description": "Minimal reproducibility release for Transcriptomic signatures preserve biological direction without uniquely specifying state in glioblastoma. Eight certified principal modules;78 current Results claims. Explicit aggregate-validation, public-processed-input and source-dependent tiers. No raw or observation-level study data. Historical v1.0.0 is preserved. This archive is distinct from the evaluably software release.",
   "upload_type": "software",
-  "publication_date": "2026-08-12",
+  "creators": [
+    {
+      "name": "Sheng, Zichen"
+    }
+  ],
   "access_right": "open",
   "license": "MIT",
-  "creators": [
-    {"name": "盛子宸"}
-  ],
+  "version": "2.0.0",
   "keywords": [
     "glioblastoma",
-    "mesenchymal state",
-    "single-cell RNA sequencing",
-    "tumor microenvironment",
-    "transcriptomics",
-    "reproducibility"
+    "transcriptomic signatures",
+    "reproducibility",
+    "measurement qualification"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ZichenSheng/canonical-MES-glioblastoma",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
   ]
 }
