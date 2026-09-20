@@ -30,4 +30,6 @@ Install renv separately if needed. The validator runs the immediately runnable m
 
 R1 uses 57 ALL_AUTHOR_ANNOTATED regional measurements from 12 patients. R4 uses 57 MALIGNANT_ONLY regional pseudobulks from 12 donors. The approved [Methods wording correction](docs/MANUSCRIPT_DISCREPANCY_LOG.tsv) changes no result or executed analysis. CRC04's historical four intermediate-vector exact-equality discrepancies remain disclosed; its exact inferential chain reproduces.
 
-The independent [evaluably 0.9.0 release](https://github.com/ZichenSheng/evaluably/releases/tag/v0.9.0), DOI [10.5281/zenodo.22846293](https://doi.org/10.5281/zenodo.22846293), is frozen and is not vendored or an execution dependency here. That DOI is not the manuscript-code DOI. The v2 version DOI will be added to main after archival without moving the release tag.
+The independent [evaluably 0.9.0 release](https://github.com/ZichenSheng/evaluably/releases/tag/v0.9.0), DOI [10.5281/zenodo.22846293](https://doi.org/10.5281/zenodo.22846293), is frozen and is not vendored or an execution dependency here. That DOI is not the manuscript-code DOI. 
+
+Cite manuscript code v2.0.0 with version DOI [10.5281/zenodo.22851819](https://doi.org/10.5281/zenodo.22851819). The concept DOI for all manuscript-code versions is [10.5281/zenodo.21962294](https://doi.org/10.5281/zenodo.21962294). These citation details were added to main after archival; the v2.0.0 tag remains at `206c1c01198091efa9022bb8ed8db21b1a012528`.

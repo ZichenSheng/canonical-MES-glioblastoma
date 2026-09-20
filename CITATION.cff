@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this manuscript reproducibility release; its version DOI is added to main after archival."
+message: "Please cite this manuscript reproducibility release using its version DOI."
 title: "Glioblastoma transcriptomic-signature manuscript reproducibility"
 type: software
 version: 2.0.0
@@ -15,3 +15,5 @@ keywords:
   - measurement
   - glioblastoma
   - R
+doi: "10.5281/zenodo.22851819"
+date-released: 2026-09-20
